@@ -6,7 +6,7 @@ Before running any cypher script, please update it with your local project locat
 * Install and start neo4j
 * Create the nodes running createNodes.cypher using the neo4j shell:
 ```
-{neo4j dir}/bin/neo4j-shell -file createNodes.cypher > import.txt
+   {neo4j dir}/bin/neo4j-shell -file createNodes.cypher > import.txt
    ```
 * Add multi labels on the nodes running addMultiLables.cypher:
 ```
