@@ -1,5 +1,6 @@
 # malaria-neo4j
 Project to build a neo4j instance with some data sets for Malaria (P. falciparum)
+
 Before running any cypher script, please update it with your local project location
 
 * Install and start neo4j
