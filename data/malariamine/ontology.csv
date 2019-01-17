@@ -1,0 +1,3 @@
+id,name,url,class
+1000003,UniProtKeyword,,org.intermine.model.bio.Ontology
+1000000,Sequence Ontology,http://www.sequenceontology.org,org.intermine.model.bio.Ontology

@@ -1,0 +1,5 @@
+id,name,version,description,url,publicationid,datasourceid,class
+1000002,Swiss-Prot data set,,,,,1000001,org.intermine.model.bio.DataSet
+1001024,TrEMBL data set,,,,,1000001,org.intermine.model.bio.DataSet
+2000001,PlasmoDB P. falciparum genome,,,,,2000000,org.intermine.model.bio.DataSet
+3000000,PlasmoDB chromosome sequence,,,,,2000000,org.intermine.model.bio.DataSet

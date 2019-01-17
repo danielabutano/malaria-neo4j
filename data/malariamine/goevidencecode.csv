@@ -1,0 +1,4 @@
+code,id,class
+IEA,1000180,org.intermine.model.bio.GOEvidenceCode
+IPI,1000477,org.intermine.model.bio.GOEvidenceCode
+IDA,1007060,org.intermine.model.bio.GOEvidenceCode

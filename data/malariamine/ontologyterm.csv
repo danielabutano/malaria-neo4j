@@ -1,0 +1,778 @@
+identifier,obsolete,namespace,id,name,description,ontologyid,class
+,,,1000011,3D-structure,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000012,ATP-binding,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000013,Glycolysis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000014,Kinase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000015,Nucleotide-binding,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000016,Transferase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000017,chain,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000018,nucleotide phosphate-binding region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000019,region of interest,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000020,binding site,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000021,strand,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000022,helix,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000023,turn,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000086,Chaperone,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000087,Cytoplasm,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000100,Electron transport,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000101,Redox-active center,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000102,Transport,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000103,domain,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000104,active site,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000105,site,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000106,disulfide bond,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000132,Endoplasmic reticulum,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000133,ER-Golgi transport,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000134,Golgi apparatus,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000135,Malaria,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000145,Cytoskeleton,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000146,Structural protein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000155,Membrane,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000156,Protein transport,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000157,Receptor,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000158,Transmembrane,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000159,topological domain,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000160,transmembrane region,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005789,,,1000181,,,,org.intermine.model.bio.GOTerm
+,,,1000190,Cell membrane,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000191,Glycoprotein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000192,GPI-anchor,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000193,Lipoprotein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000194,Merozoite,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000195,Repeat,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000196,Signal,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000197,signal peptide,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000198,propeptide,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000199,compositionally biased region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000200,lipid moiety-binding region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000201,glycosylation site,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000202,sequence conflict,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000224,Actin-binding,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000225,Motor protein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000226,Myosin,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000235,Ribonucleoprotein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000236,Ribosomal protein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000245,Acyltransferase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000260,Aminotransferase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000261,Pyridoxal phosphate,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000291,Apicoplast,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000292,Plastid,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000293,Transit peptide,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000294,transit peptide,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000308,Hydrolase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000309,NAD,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000310,One-carbon metabolism,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000377,initiator methionine,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000392,Iron,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000393,Metal-binding,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000394,Oxidoreductase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000395,metal ion-binding site,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000426,Coiled coil,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000427,TPR repeat,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000428,repeat,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000429,coiled-coil region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000439,Protease,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000440,Thiol protease,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000441,Vacuole,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005515,,,1000478,,,,org.intermine.model.bio.GOTerm
+,,,1000489,Fatty acid biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000490,Gluconeogenesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000491,Isomerase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000492,Lipid synthesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000493,Pentose shunt,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000510,Aspartyl protease,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000511,Zymogen,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000529,Zinc,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000530,Zinc-finger,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000531,zinc finger region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000543,Calcium,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000544,Myristate,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000545,Phosphoprotein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000546,Serine/threonine-protein kinase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000547,calcium-binding region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000560,DNA-directed RNA polymerase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000561,Nucleus,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000562,Transcription,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000574,GTP-binding,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000575,Microtubule,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0020003,,,1000589,,,,org.intermine.model.bio.GOTerm
+GO:0009986,,,1000593,,,,org.intermine.model.bio.GOTerm
+,,,1000610,Isoprene biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000611,Lyase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000631,Glycosyltransferase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000642,modified residue,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000661,Developmental protein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000662,Differentiation,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000688,rRNA processing,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000718,FAD,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000719,Flavoprotein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000720,Mitochondrion,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000721,Mitochondrion inner membrane,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000722,Pyrimidine biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000794,Schiff base,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000826,NADP,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000838,Magnesium,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000880,Leucine-rich repeat,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000890,DNA replication,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000891,Nucleotidyltransferase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000892,Primosome,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000907,Acetylation,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000920,Direct protein sequencing,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000921,Lysosome,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000922,Sulfation,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000974,Cell cycle,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1000999,DNA-binding,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001000,DNA-binding region,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001013,Hydrogen ion transport,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001014,Ion transport,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004671,,,1001049,,,,org.intermine.model.bio.GOTerm
+GO:0006481,,,1001053,,,,org.intermine.model.bio.GOTerm
+GO:0016021,,,1001056,,,,org.intermine.model.bio.GOTerm
+GO:0008270,,,1001088,,,,org.intermine.model.bio.GOTerm
+GO:0050662,,,1001100,,,,org.intermine.model.bio.GOTerm
+GO:0003824,,,1001104,,,,org.intermine.model.bio.GOTerm
+GO:0044237,,,1001107,,,,org.intermine.model.bio.GOTerm
+GO:0005622,,,1001142,,,,org.intermine.model.bio.GOTerm
+,,,1001150,non-terminal residue,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006508,,,1001165,,,,org.intermine.model.bio.GOTerm
+GO:0004194,,,1001169,,,,org.intermine.model.bio.GOTerm
+GO:0003735,,,1001176,,,,org.intermine.model.bio.GOTerm
+GO:0005840,,,1001180,,,,org.intermine.model.bio.GOTerm
+GO:0006412,,,1001183,,,,org.intermine.model.bio.GOTerm
+GO:0003682,,,1001218,,,,org.intermine.model.bio.GOTerm
+GO:0005634,,,1001223,,,,org.intermine.model.bio.GOTerm
+GO:0000785,,,1001226,,,,org.intermine.model.bio.GOTerm
+GO:0006333,,,1001229,,,,org.intermine.model.bio.GOTerm
+GO:0005488,,,1001251,,,,org.intermine.model.bio.GOTerm
+,,,1001282,Sugar transport,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0030036,,,1001299,,,,org.intermine.model.bio.GOTerm
+GO:0003779,,,1001303,,,,org.intermine.model.bio.GOTerm
+,,,1001308,Helicase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001383,Viral nucleoprotein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001413,Ligase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005975,,,1001428,,,,org.intermine.model.bio.GOTerm
+GO:0016868,,,1001432,,,,org.intermine.model.bio.GOTerm
+,,,1001438,Chromosomal protein,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001439,Nucleosome core,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006334,,,1001442,,,,org.intermine.model.bio.GOTerm
+GO:0000786,,,1001448,,,,org.intermine.model.bio.GOTerm
+GO:0003677,,,1001451,,,,org.intermine.model.bio.GOTerm
+GO:0000166,,,1001458,,,,org.intermine.model.bio.GOTerm
+GO:0003676,,,1001462,,,,org.intermine.model.bio.GOTerm
+GO:0008121,,,1001479,,,,org.intermine.model.bio.GOTerm
+GO:0006122,,,1001483,,,,org.intermine.model.bio.GOTerm
+GO:0003711,,,1001494,,,,org.intermine.model.bio.GOTerm
+GO:0006357,,,1001500,,,,org.intermine.model.bio.GOTerm
+,,,1001552,Aminoacyl-tRNA synthetase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001553,Protein biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0046488,,,1001600,,,,org.intermine.model.bio.GOTerm
+GO:0016307,,,1001604,,,,org.intermine.model.bio.GOTerm
+,,,1001618,Endonuclease,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0043565,,,1001621,,,,org.intermine.model.bio.GOTerm
+GO:0003906,,,1001625,,,,org.intermine.model.bio.GOTerm
+GO:0004519,,,1001630,,,,org.intermine.model.bio.GOTerm
+GO:0051539,,,1001633,,,,org.intermine.model.bio.GOTerm
+GO:0006284,,,1001636,,,,org.intermine.model.bio.GOTerm
+GO:0006260,,,1001664,,,,org.intermine.model.bio.GOTerm
+GO:0003689,,,1001668,,,,org.intermine.model.bio.GOTerm
+GO:0005663,,,1001673,,,,org.intermine.model.bio.GOTerm
+GO:0005524,,,1001676,,,,org.intermine.model.bio.GOTerm
+,,,1001704,Nucleotide biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006470,,,1001716,,,,org.intermine.model.bio.GOTerm
+GO:0008138,,,1001720,,,,org.intermine.model.bio.GOTerm
+GO:0008152,,,1001742,,,,org.intermine.model.bio.GOTerm
+GO:0008746,,,1001745,,,,org.intermine.model.bio.GOTerm
+GO:0009055,,,1001748,,,,org.intermine.model.bio.GOTerm
+,,,1001773,Bromodomain,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005680,,,1001793,,,,org.intermine.model.bio.GOTerm
+GO:0030071,,,1001796,,,,org.intermine.model.bio.GOTerm
+GO:0016874,,,1001844,,,,org.intermine.model.bio.GOTerm
+GO:0009374,,,1001850,,,,org.intermine.model.bio.GOTerm
+GO:0004674,,,1001859,,,,org.intermine.model.bio.GOTerm
+GO:0006468,,,1001863,,,,org.intermine.model.bio.GOTerm
+GO:0005737,,,1001873,,,,org.intermine.model.bio.GOTerm
+GO:0050660,,,1001877,,,,org.intermine.model.bio.GOTerm
+GO:0016491,,,1001880,,,,org.intermine.model.bio.GOTerm
+GO:0045454,,,1001885,,,,org.intermine.model.bio.GOTerm
+GO:0055114,,,1001888,,,,org.intermine.model.bio.GOTerm
+GO:0030131,,,1001912,,,,org.intermine.model.bio.GOTerm
+GO:0016192,,,1001915,,,,org.intermine.model.bio.GOTerm
+GO:0006886,,,1001918,,,,org.intermine.model.bio.GOTerm
+,,,1001942,WD repeat,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1001965,Kelch repeat,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0016791,,,1001981,,,,org.intermine.model.bio.GOTerm
+GO:0016311,,,1001985,,,,org.intermine.model.bio.GOTerm
+GO:0003684,,,1001998,,,,org.intermine.model.bio.GOTerm
+GO:0006281,,,1002003,,,,org.intermine.model.bio.GOTerm
+GO:0008094,,,1002008,,,,org.intermine.model.bio.GOTerm
+GO:0006364,,,1002020,,,,org.intermine.model.bio.GOTerm
+GO:0003887,,,1002031,,,,org.intermine.model.bio.GOTerm
+GO:0004594,,,1002042,,,,org.intermine.model.bio.GOTerm
+GO:0015937,,,1002046,,,,org.intermine.model.bio.GOTerm
+,,,1002059,Elongation factor,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004396,,,1002073,,,,org.intermine.model.bio.GOTerm
+GO:0006096,,,1002079,,,,org.intermine.model.bio.GOTerm
+,,,1002158,Initiation factor,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1002159,RNA-binding,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005525,,,1002167,,,,org.intermine.model.bio.GOTerm
+GO:0006464,,,1002175,,,,org.intermine.model.bio.GOTerm
+GO:0003918,,,1002183,,,,org.intermine.model.bio.GOTerm
+GO:0005694,,,1002187,,,,org.intermine.model.bio.GOTerm
+GO:0006265,,,1002190,,,,org.intermine.model.bio.GOTerm
+,,,1002205,Kringle,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0016020,,,1002224,,,,org.intermine.model.bio.GOTerm
+GO:0016226,,,1002287,,,,org.intermine.model.bio.GOTerm
+GO:0051536,,,1002290,,,,org.intermine.model.bio.GOTerm
+GO:0005506,,,1002293,,,,org.intermine.model.bio.GOTerm
+GO:0005509,,,1002374,,,,org.intermine.model.bio.GOTerm
+GO:0009405,,,1002385,,,,org.intermine.model.bio.GOTerm
+GO:0004872,,,1002389,,,,org.intermine.model.bio.GOTerm
+GO:0005539,,,1002392,,,,org.intermine.model.bio.GOTerm
+,,,1002402,Transducer,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006629,,,1002405,,,,org.intermine.model.bio.GOTerm
+GO:0007242,,,1002409,,,,org.intermine.model.bio.GOTerm
+GO:0004435,,,1002412,,,,org.intermine.model.bio.GOTerm
+GO:0004871,,,1002415,,,,org.intermine.model.bio.GOTerm
+GO:0005952,,,1002456,,,,org.intermine.model.bio.GOTerm
+GO:0008603,,,1002462,,,,org.intermine.model.bio.GOTerm
+GO:0016301,,,1002465,,,,org.intermine.model.bio.GOTerm
+GO:0001932,,,1002468,,,,org.intermine.model.bio.GOTerm
+,,,1002473,Capsid protein,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004427,,,1002495,,,,org.intermine.model.bio.GOTerm
+GO:0009678,,,1002498,,,,org.intermine.model.bio.GOTerm
+GO:0015992,,,1002501,,,,org.intermine.model.bio.GOTerm
+GO:0000154,,,1002598,,,,org.intermine.model.bio.GOTerm
+GO:0000179,,,1002602,,,,org.intermine.model.bio.GOTerm
+GO:0006457,,,1002613,,,,org.intermine.model.bio.GOTerm
+GO:0051082,,,1002616,,,,org.intermine.model.bio.GOTerm
+GO:0004576,,,1002657,,,,org.intermine.model.bio.GOTerm
+GO:0006486,,,1002663,,,,org.intermine.model.bio.GOTerm
+GO:0031072,,,1002688,,,,org.intermine.model.bio.GOTerm
+,,,1002701,Ubl conjugation pathway,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1002792,Exonuclease,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006396,,,1002795,,,,org.intermine.model.bio.GOTerm
+GO:0000175,,,1002799,,,,org.intermine.model.bio.GOTerm
+GO:0003723,,,1002802,,,,org.intermine.model.bio.GOTerm
+,,,1002861,Methyltransferase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0009228,,,1002941,,,,org.intermine.model.bio.GOTerm
+GO:0004417,,,1002945,,,,org.intermine.model.bio.GOTerm
+GO:0005739,,,1002957,,,,org.intermine.model.bio.GOTerm
+GO:0004408,,,1002961,,,,org.intermine.model.bio.GOTerm
+,,,1002976,Proteasome,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0003700,,,1003000,,,,org.intermine.model.bio.GOTerm
+GO:0045449,,,1003006,,,,org.intermine.model.bio.GOTerm
+GO:0015935,,,1003023,,,,org.intermine.model.bio.GOTerm
+GO:0016787,,,1003043,,,,org.intermine.model.bio.GOTerm
+,,,1003133,Rotamase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0000398,,,1003145,,,,org.intermine.model.bio.GOTerm
+GO:0030132,,,1003217,,,,org.intermine.model.bio.GOTerm
+GO:0005198,,,1003220,,,,org.intermine.model.bio.GOTerm
+GO:0030130,,,1003223,,,,org.intermine.model.bio.GOTerm
+GO:0042254,,,1003267,,,,org.intermine.model.bio.GOTerm
+GO:0006414,,,1003272,,,,org.intermine.model.bio.GOTerm
+GO:0004386,,,1003279,,,,org.intermine.model.bio.GOTerm
+GO:0004197,,,1003338,,,,org.intermine.model.bio.GOTerm
+GO:0008026,,,1003367,,,,org.intermine.model.bio.GOTerm
+GO:0006810,,,1003419,,,,org.intermine.model.bio.GOTerm
+GO:0042626,,,1003423,,,,org.intermine.model.bio.GOTerm
+GO:0030163,,,1003527,,,,org.intermine.model.bio.GOTerm
+GO:0017111,,,1003531,,,,org.intermine.model.bio.GOTerm
+GO:0004222,,,1003540,,,,org.intermine.model.bio.GOTerm
+GO:0006177,,,1003554,,,,org.intermine.model.bio.GOTerm
+GO:0003922,,,1003558,,,,org.intermine.model.bio.GOTerm
+GO:0006541,,,1003563,,,,org.intermine.model.bio.GOTerm
+GO:0009003,,,1003581,,,,org.intermine.model.bio.GOTerm
+GO:0005787,,,1003585,,,,org.intermine.model.bio.GOTerm
+GO:0005792,,,1003588,,,,org.intermine.model.bio.GOTerm
+GO:0006465,,,1003593,,,,org.intermine.model.bio.GOTerm
+GO:0006633,,,1003736,,,,org.intermine.model.bio.GOTerm
+GO:0004315,,,1003740,,,,org.intermine.model.bio.GOTerm
+GO:0020037,,,1003784,,,,org.intermine.model.bio.GOTerm
+,,,1003790,Stress response,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0030693,,,1003841,,,,org.intermine.model.bio.GOTerm
+,,,1003966,Lipid degradation,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0008080,,,1003973,,,,org.intermine.model.bio.GOTerm
+GO:0016887,,,1004138,,,,org.intermine.model.bio.GOTerm
+,,,1004149,Pyruvate,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0000287,,,1004152,,,,org.intermine.model.bio.GOTerm
+GO:0030955,,,1004156,,,,org.intermine.model.bio.GOTerm
+GO:0004743,,,1004161,,,,org.intermine.model.bio.GOTerm
+,,,1004185,Heme,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1004186,Respiratory chain,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005746,,,1004189,,,,org.intermine.model.bio.GOTerm
+GO:0004540,,,1004217,,,,org.intermine.model.bio.GOTerm
+,,,1004227,Aminopeptidase,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1004228,Metalloprotease,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004672,,,1004295,,,,org.intermine.model.bio.GOTerm
+GO:0046873,,,1004398,,,,org.intermine.model.bio.GOTerm
+GO:0030001,,,1004401,,,,org.intermine.model.bio.GOTerm
+,,,1004490,DNA damage,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1004491,DNA recombination,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1004492,DNA repair,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0008299,,,1004500,,,,org.intermine.model.bio.GOTerm
+GO:0016740,,,1004504,,,,org.intermine.model.bio.GOTerm
+GO:0005086,,,1004531,,,,org.intermine.model.bio.GOTerm
+GO:0032012,,,1004534,,,,org.intermine.model.bio.GOTerm
+GO:0004789,,,1004685,,,,org.intermine.model.bio.GOTerm
+GO:0003743,,,1004766,,,,org.intermine.model.bio.GOTerm
+GO:0006413,,,1004770,,,,org.intermine.model.bio.GOTerm
+GO:0006139,,,1004780,,,,org.intermine.model.bio.GOTerm
+GO:0008408,,,1004783,,,,org.intermine.model.bio.GOTerm
+GO:0046872,,,1004892,,,,org.intermine.model.bio.GOTerm
+GO:0003924,,,1005031,,,,org.intermine.model.bio.GOTerm
+GO:0006350,,,1005238,,,,org.intermine.model.bio.GOTerm
+,,,1005332,Cyclin,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004721,,,1005390,,,,org.intermine.model.bio.GOTerm
+GO:0004190,,,1005393,,,,org.intermine.model.bio.GOTerm
+GO:0000119,,,1005400,,,,org.intermine.model.bio.GOTerm
+GO:0016455,,,1005404,,,,org.intermine.model.bio.GOTerm
+GO:0006546,,,1005417,,,,org.intermine.model.bio.GOTerm
+GO:0004047,,,1005420,,,,org.intermine.model.bio.GOTerm
+GO:0008173,,,1005433,,,,org.intermine.model.bio.GOTerm
+,,,1005478,Cell division,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0051301,,,1005494,,,,org.intermine.model.bio.GOTerm
+,,,1005536,Lipoyl,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0031405,,,1005539,,,,org.intermine.model.bio.GOTerm
+GO:0005960,,,1005543,,,,org.intermine.model.bio.GOTerm
+GO:0005758,,,1005557,,,,org.intermine.model.bio.GOTerm
+GO:0016531,,,1005561,,,,org.intermine.model.bio.GOTerm
+GO:0006825,,,1005564,,,,org.intermine.model.bio.GOTerm
+,,,1005635,Translocation,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0045039,,,1005641,,,,org.intermine.model.bio.GOTerm
+GO:0042719,,,1005644,,,,org.intermine.model.bio.GOTerm
+GO:0065002,,,1005649,,,,org.intermine.model.bio.GOTerm
+GO:0003905,,,1005697,,,,org.intermine.model.bio.GOTerm
+GO:0004252,,,1005723,,,,org.intermine.model.bio.GOTerm
+GO:0004176,,,1005726,,,,org.intermine.model.bio.GOTerm
+,,,1005827,ANK repeat,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1005869,Topoisomerase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0003774,,,1005925,,,,org.intermine.model.bio.GOTerm
+GO:0016459,,,1005929,,,,org.intermine.model.bio.GOTerm
+GO:0019856,,,1005978,,,,org.intermine.model.bio.GOTerm
+GO:0004151,,,1005982,,,,org.intermine.model.bio.GOTerm
+GO:0004518,,,1005992,,,,org.intermine.model.bio.GOTerm
+GO:0006259,,,1005997,,,,org.intermine.model.bio.GOTerm
+GO:0017176,,,1006021,,,,org.intermine.model.bio.GOTerm
+GO:0006506,,,1006027,,,,org.intermine.model.bio.GOTerm
+GO:0033014,,,1006178,,,,org.intermine.model.bio.GOTerm
+GO:0004418,,,1006182,,,,org.intermine.model.bio.GOTerm
+GO:0046080,,,1006214,,,,org.intermine.model.bio.GOTerm
+GO:0016757,,,1006298,,,,org.intermine.model.bio.GOTerm
+GO:0019835,,,1006349,,,,org.intermine.model.bio.GOTerm
+GO:0009058,,,1006398,,,,org.intermine.model.bio.GOTerm
+GO:0016769,,,1006402,,,,org.intermine.model.bio.GOTerm
+GO:0030170,,,1006405,,,,org.intermine.model.bio.GOTerm
+GO:0003870,,,1006410,,,,org.intermine.model.bio.GOTerm
+,,,1006484,ATP synthesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1006485,CF(1),,1000003,org.intermine.model.bio.OntologyTerm
+GO:0009396,,,1006500,,,,org.intermine.model.bio.GOTerm
+GO:0004437,,,1006574,,,,org.intermine.model.bio.GOTerm
+GO:0015934,,,1006600,,,,org.intermine.model.bio.GOTerm
+GO:0003899,,,1006649,,,,org.intermine.model.bio.GOTerm
+GO:0046983,,,1006685,,,,org.intermine.model.bio.GOTerm
+GO:0006355,,,1006788,,,,org.intermine.model.bio.GOTerm
+GO:0003702,,,1006794,,,,org.intermine.model.bio.GOTerm
+GO:0004077,,,1006865,,,,org.intermine.model.bio.GOTerm
+GO:0004605,,,1006887,,,,org.intermine.model.bio.GOTerm
+GO:0008654,,,1006891,,,,org.intermine.model.bio.GOTerm
+GO:0007264,,,1007031,,,,org.intermine.model.bio.GOTerm
+GO:0044403,,,1007064,,,,org.intermine.model.bio.GOTerm
+GO:0008033,,,1007192,,,,org.intermine.model.bio.GOTerm
+GO:0004811,,,1007195,,,,org.intermine.model.bio.GOTerm
+GO:0008168,,,1007275,,,,org.intermine.model.bio.GOTerm
+GO:0004750,,,1007339,,,,org.intermine.model.bio.GOTerm
+GO:0030286,,,1007349,,,,org.intermine.model.bio.GOTerm
+GO:0003777,,,1007353,,,,org.intermine.model.bio.GOTerm
+GO:0007018,,,1007356,,,,org.intermine.model.bio.GOTerm
+GO:0005328,,,1007383,,,,org.intermine.model.bio.GOTerm
+GO:0005887,,,1007387,,,,org.intermine.model.bio.GOTerm
+GO:0006836,,,1007390,,,,org.intermine.model.bio.GOTerm
+GO:0001503,,,1007414,,,,org.intermine.model.bio.GOTerm
+GO:0007155,,,1007418,,,,org.intermine.model.bio.GOTerm
+GO:0004148,,,1007477,,,,org.intermine.model.bio.GOTerm
+GO:0000062,,,1007541,,,,org.intermine.model.bio.GOTerm
+,,,1007608,Glycosidase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0043169,,,1007614,,,,org.intermine.model.bio.GOTerm
+GO:0004553,,,1007617,,,,org.intermine.model.bio.GOTerm
+,,,1007639,Iron-sulfur,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004713,,,1007667,,,,org.intermine.model.bio.GOTerm
+GO:0008134,,,1007700,,,,org.intermine.model.bio.GOTerm
+,,,1007733,DNA-directed DNA polymerase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006367,,,1007852,,,,org.intermine.model.bio.GOTerm
+GO:0005669,,,1007855,,,,org.intermine.model.bio.GOTerm
+GO:0008565,,,1007876,,,,org.intermine.model.bio.GOTerm
+GO:0005743,,,1007880,,,,org.intermine.model.bio.GOTerm
+GO:0015031,,,1007883,,,,org.intermine.model.bio.GOTerm
+GO:0007067,,,1007957,,,,org.intermine.model.bio.GOTerm
+GO:0010038,,,1008132,,,,org.intermine.model.bio.GOTerm
+GO:0006432,,,1008143,,,,org.intermine.model.bio.GOTerm
+GO:0004826,,,1008146,,,,org.intermine.model.bio.GOTerm
+GO:0005875,,,1008155,,,,org.intermine.model.bio.GOTerm
+GO:0007017,,,1008159,,,,org.intermine.model.bio.GOTerm
+GO:0016671,,,1008197,,,,org.intermine.model.bio.GOTerm
+GO:0006467,,,1008202,,,,org.intermine.model.bio.GOTerm
+GO:0008479,,,1008272,,,,org.intermine.model.bio.GOTerm
+GO:0008616,,,1008276,,,,org.intermine.model.bio.GOTerm
+GO:0003963,,,1008288,,,,org.intermine.model.bio.GOTerm
+GO:0004615,,,1008337,,,,org.intermine.model.bio.GOTerm
+GO:0019307,,,1008343,,,,org.intermine.model.bio.GOTerm
+GO:0000922,,,1008350,,,,org.intermine.model.bio.GOTerm
+GO:0005815,,,1008354,,,,org.intermine.model.bio.GOTerm
+GO:0000226,,,1008357,,,,org.intermine.model.bio.GOTerm
+GO:0051246,,,1008491,,,,org.intermine.model.bio.GOTerm
+GO:0019787,,,1008495,,,,org.intermine.model.bio.GOTerm
+GO:0043687,,,1008498,,,,org.intermine.model.bio.GOTerm
+GO:0016149,,,1008688,,,,org.intermine.model.bio.GOTerm
+GO:0006415,,,1008691,,,,org.intermine.model.bio.GOTerm
+GO:0005852,,,1008746,,,,org.intermine.model.bio.GOTerm
+GO:0004831,,,1008783,,,,org.intermine.model.bio.GOTerm
+GO:0006437,,,1008791,,,,org.intermine.model.bio.GOTerm
+GO:0006813,,,1008813,,,,org.intermine.model.bio.GOTerm
+GO:0015269,,,1008816,,,,org.intermine.model.bio.GOTerm
+,,,1008823,Porphyrin biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006779,,,1008826,,,,org.intermine.model.bio.GOTerm
+GO:0004655,,,1008830,,,,org.intermine.model.bio.GOTerm
+GO:0005215,,,1009062,,,,org.intermine.model.bio.GOTerm
+GO:0015914,,,1009143,,,,org.intermine.model.bio.GOTerm
+GO:0004012,,,1009146,,,,org.intermine.model.bio.GOTerm
+GO:0015662,,,1009153,,,,org.intermine.model.bio.GOTerm
+GO:0008233,,,1009200,,,,org.intermine.model.bio.GOTerm
+,,,1009279,Potassium,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005786,,,1009432,,,,org.intermine.model.bio.GOTerm
+GO:0006614,,,1009435,,,,org.intermine.model.bio.GOTerm
+GO:0030942,,,1009438,,,,org.intermine.model.bio.GOTerm
+GO:0008312,,,1009441,,,,org.intermine.model.bio.GOTerm
+GO:0045900,,,1009444,,,,org.intermine.model.bio.GOTerm
+GO:0006950,,,1009496,,,,org.intermine.model.bio.GOTerm
+GO:0003755,,,1009608,,,,org.intermine.model.bio.GOTerm
+GO:0032313,,,1009641,,,,org.intermine.model.bio.GOTerm
+GO:0005097,,,1009644,,,,org.intermine.model.bio.GOTerm
+GO:0006520,,,1009657,,,,org.intermine.model.bio.GOTerm
+GO:0030529,,,1009756,,,,org.intermine.model.bio.GOTerm
+,,,1009768,Cobalt,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004239,,,1009774,,,,org.intermine.model.bio.GOTerm
+GO:0050897,,,1009777,,,,org.intermine.model.bio.GOTerm
+GO:0005484,,,1009852,,,,org.intermine.model.bio.GOTerm
+GO:0019867,,,1010144,,,,org.intermine.model.bio.GOTerm
+GO:0051087,,,1010267,,,,org.intermine.model.bio.GOTerm
+GO:0042803,,,1010270,,,,org.intermine.model.bio.GOTerm
+GO:0000774,,,1010273,,,,org.intermine.model.bio.GOTerm
+,,,1010301,Carbon dioxide fixation,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1010302,Tricarboxylic acid cycle,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006099,,,1010305,,,,org.intermine.model.bio.GOTerm
+GO:0015977,,,1010309,,,,org.intermine.model.bio.GOTerm
+GO:0008964,,,1010312,,,,org.intermine.model.bio.GOTerm
+GO:0004607,,,1010337,,,,org.intermine.model.bio.GOTerm
+GO:0004852,,,1010365,,,,org.intermine.model.bio.GOTerm
+GO:0045941,,,1010504,,,,org.intermine.model.bio.GOTerm
+GO:0008159,,,1010508,,,,org.intermine.model.bio.GOTerm
+GO:0000059,,,1010642,,,,org.intermine.model.bio.GOTerm
+GO:0005643,,,1010647,,,,org.intermine.model.bio.GOTerm
+GO:0016209,,,1010750,,,,org.intermine.model.bio.GOTerm
+GO:0006914,,,1010777,,,,org.intermine.model.bio.GOTerm
+GO:0004629,,,1010787,,,,org.intermine.model.bio.GOTerm
+GO:0006071,,,1010790,,,,org.intermine.model.bio.GOTerm
+GO:0008889,,,1010793,,,,org.intermine.model.bio.GOTerm
+GO:0006801,,,1010802,,,,org.intermine.model.bio.GOTerm
+GO:0004784,,,1010810,,,,org.intermine.model.bio.GOTerm
+GO:0043087,,,1010905,,,,org.intermine.model.bio.GOTerm
+GO:0016071,,,1010925,,,,org.intermine.model.bio.GOTerm
+GO:0006511,,,1010937,,,,org.intermine.model.bio.GOTerm
+GO:0004177,,,1010945,,,,org.intermine.model.bio.GOTerm
+GO:0006388,,,1011006,,,,org.intermine.model.bio.GOTerm
+GO:0000214,,,1011012,,,,org.intermine.model.bio.GOTerm
+GO:0000213,,,1011015,,,,org.intermine.model.bio.GOTerm
+GO:0006537,,,1011095,,,,org.intermine.model.bio.GOTerm
+GO:0016639,,,1011102,,,,org.intermine.model.bio.GOTerm
+GO:0015930,,,1011105,,,,org.intermine.model.bio.GOTerm
+,,,1011159,Ubiquinone,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004178,,,1011344,,,,org.intermine.model.bio.GOTerm
+GO:0030145,,,1011350,,,,org.intermine.model.bio.GOTerm
+GO:0016070,,,1011362,,,,org.intermine.model.bio.GOTerm
+GO:0005839,,,1011394,,,,org.intermine.model.bio.GOTerm
+GO:0004298,,,1011397,,,,org.intermine.model.bio.GOTerm
+,,,1011435,Threonine protease,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004089,,,1011461,,,,org.intermine.model.bio.GOTerm
+GO:0006730,,,1011464,,,,org.intermine.model.bio.GOTerm
+GO:0006512,,,1011475,,,,org.intermine.model.bio.GOTerm
+GO:0004842,,,1011478,,,,org.intermine.model.bio.GOTerm
+GO:0004802,,,1011525,,,,org.intermine.model.bio.GOTerm
+GO:0004221,,,1011621,,,,org.intermine.model.bio.GOTerm
+GO:0005874,,,1011833,,,,org.intermine.model.bio.GOTerm
+GO:0051726,,,1011904,,,,org.intermine.model.bio.GOTerm
+GO:0016538,,,1011907,,,,org.intermine.model.bio.GOTerm
+GO:0051302,,,1011910,,,,org.intermine.model.bio.GOTerm
+GO:0008060,,,1011935,,,,org.intermine.model.bio.GOTerm
+GO:0032312,,,1011939,,,,org.intermine.model.bio.GOTerm
+GO:0003934,,,1011951,,,,org.intermine.model.bio.GOTerm
+GO:0019438,,,1011954,,,,org.intermine.model.bio.GOTerm
+GO:0005507,,,1011991,,,,org.intermine.model.bio.GOTerm
+GO:0008283,,,1012093,,,,org.intermine.model.bio.GOTerm
+GO:0005730,,,1012097,,,,org.intermine.model.bio.GOTerm
+GO:0030983,,,1012212,,,,org.intermine.model.bio.GOTerm
+GO:0006298,,,1012218,,,,org.intermine.model.bio.GOTerm
+GO:0018346,,,1012242,,,,org.intermine.model.bio.GOTerm
+GO:0008318,,,1012246,,,,org.intermine.model.bio.GOTerm
+GO:0009264,,,1012453,,,,org.intermine.model.bio.GOTerm
+GO:0004139,,,1012457,,,,org.intermine.model.bio.GOTerm
+GO:0016788,,,1012476,,,,org.intermine.model.bio.GOTerm
+GO:0003872,,,1012652,,,,org.intermine.model.bio.GOTerm
+GO:0005945,,,1012655,,,,org.intermine.model.bio.GOTerm
+GO:0009982,,,1012845,,,,org.intermine.model.bio.GOTerm
+GO:0031119,,,1012851,,,,org.intermine.model.bio.GOTerm
+GO:0008440,,,1012898,,,,org.intermine.model.bio.GOTerm
+GO:0016568,,,1012905,,,,org.intermine.model.bio.GOTerm
+GO:0004109,,,1013019,,,,org.intermine.model.bio.GOTerm
+GO:0006166,,,1013043,,,,org.intermine.model.bio.GOTerm
+GO:0004422,,,1013049,,,,org.intermine.model.bio.GOTerm
+GO:0051287,,,1013057,,,,org.intermine.model.bio.GOTerm
+GO:0006006,,,1013061,,,,org.intermine.model.bio.GOTerm
+GO:0004365,,,1013064,,,,org.intermine.model.bio.GOTerm
+GO:0004806,,,1013187,,,,org.intermine.model.bio.GOTerm
+GO:0007186,,,1013407,,,,org.intermine.model.bio.GOTerm
+GO:0006888,,,1013420,,,,org.intermine.model.bio.GOTerm
+GO:0005801,,,1013424,,,,org.intermine.model.bio.GOTerm
+GO:0006913,,,1013578,,,,org.intermine.model.bio.GOTerm
+GO:0008605,,,1013759,,,,org.intermine.model.bio.GOTerm
+GO:0005956,,,1013762,,,,org.intermine.model.bio.GOTerm
+GO:0016849,,,1013977,,,,org.intermine.model.bio.GOTerm
+GO:0009190,,,1013984,,,,org.intermine.model.bio.GOTerm
+GO:0043234,,,1014009,,,,org.intermine.model.bio.GOTerm
+GO:0005829,,,1014018,,,,org.intermine.model.bio.GOTerm
+GO:0048500,,,1014032,,,,org.intermine.model.bio.GOTerm
+GO:0004003,,,1014055,,,,org.intermine.model.bio.GOTerm
+GO:0004164,,,1014145,,,,org.intermine.model.bio.GOTerm
+GO:0017183,,,1014149,,,,org.intermine.model.bio.GOTerm
+GO:0001522,,,1014171,,,,org.intermine.model.bio.GOTerm
+GO:0005249,,,1014218,,,,org.intermine.model.bio.GOTerm
+GO:0008076,,,1014221,,,,org.intermine.model.bio.GOTerm
+GO:0015986,,,1014532,,,,org.intermine.model.bio.GOTerm
+GO:0046961,,,1014536,,,,org.intermine.model.bio.GOTerm
+GO:0046933,,,1014539,,,,org.intermine.model.bio.GOTerm
+GO:0016469,,,1014542,,,,org.intermine.model.bio.GOTerm
+GO:0005200,,,1014591,,,,org.intermine.model.bio.GOTerm
+GO:0008235,,,1014817,,,,org.intermine.model.bio.GOTerm
+,,,1014870,2Fe-2S,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0051537,,,1014878,,,,org.intermine.model.bio.GOTerm
+,,,1014903,Heme biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0003746,,,1015067,,,,org.intermine.model.bio.GOTerm
+GO:0003747,,,1015072,,,,org.intermine.model.bio.GOTerm
+GO:0004143,,,1015093,,,,org.intermine.model.bio.GOTerm
+GO:0007205,,,1015097,,,,org.intermine.model.bio.GOTerm
+,,,1015450,Porin,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0005971,,,1015614,,,,org.intermine.model.bio.GOTerm
+GO:0004748,,,1015617,,,,org.intermine.model.bio.GOTerm
+GO:0009331,,,1015640,,,,org.intermine.model.bio.GOTerm
+GO:0004368,,,1015644,,,,org.intermine.model.bio.GOTerm
+GO:0008924,,,1015647,,,,org.intermine.model.bio.GOTerm
+GO:0006072,,,1015650,,,,org.intermine.model.bio.GOTerm
+GO:0016114,,,1015732,,,,org.intermine.model.bio.GOTerm
+GO:0046429,,,1015735,,,,org.intermine.model.bio.GOTerm
+GO:0030117,,,1015787,,,,org.intermine.model.bio.GOTerm
+GO:0016853,,,1015817,,,,org.intermine.model.bio.GOTerm
+GO:0006820,,,1015893,,,,org.intermine.model.bio.GOTerm
+GO:0005741,,,1015897,,,,org.intermine.model.bio.GOTerm
+GO:0008308,,,1015900,,,,org.intermine.model.bio.GOTerm
+GO:0005856,,,1016250,,,,org.intermine.model.bio.GOTerm
+GO:0004719,,,1016282,,,,org.intermine.model.bio.GOTerm
+GO:0004853,,,1016306,,,,org.intermine.model.bio.GOTerm
+GO:0003998,,,1016447,,,,org.intermine.model.bio.GOTerm
+,,,1016530,Carbohydrate metabolism,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1016531,Glucose metabolism,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004345,,,1016537,,,,org.intermine.model.bio.GOTerm
+GO:0007165,,,1016641,,,,org.intermine.model.bio.GOTerm
+GO:0008967,,,1016896,,,,org.intermine.model.bio.GOTerm
+GO:0004832,,,1016917,,,,org.intermine.model.bio.GOTerm
+GO:0006438,,,1016923,,,,org.intermine.model.bio.GOTerm
+GO:0003678,,,1016952,,,,org.intermine.model.bio.GOTerm
+GO:0006379,,,1016973,,,,org.intermine.model.bio.GOTerm
+GO:0000172,,,1016977,,,,org.intermine.model.bio.GOTerm
+GO:0030677,,,1016988,,,,org.intermine.model.bio.GOTerm
+GO:0051276,,,1017057,,,,org.intermine.model.bio.GOTerm
+,,,1017400,Peroxidase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004602,,,1017403,,,,org.intermine.model.bio.GOTerm
+GO:0006979,,,1017407,,,,org.intermine.model.bio.GOTerm
+GO:0006289,,,1017457,,,,org.intermine.model.bio.GOTerm
+GO:0006426,,,1017491,,,,org.intermine.model.bio.GOTerm
+GO:0004820,,,1017494,,,,org.intermine.model.bio.GOTerm
+GO:0003987,,,1017522,,,,org.intermine.model.bio.GOTerm
+GO:0000502,,,1017614,,,,org.intermine.model.bio.GOTerm
+GO:0042176,,,1017618,,,,org.intermine.model.bio.GOTerm
+GO:0030234,,,1017623,,,,org.intermine.model.bio.GOTerm
+GO:0008612,,,1017641,,,,org.intermine.model.bio.GOTerm
+,,,1017662,Nuclease,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004523,,,1017670,,,,org.intermine.model.bio.GOTerm
+GO:0009168,,,1017750,,,,org.intermine.model.bio.GOTerm
+GO:0019239,,,1017754,,,,org.intermine.model.bio.GOTerm
+GO:0003993,,,1017995,,,,org.intermine.model.bio.GOTerm
+,,,1018050,Copper,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004129,,,1018058,,,,org.intermine.model.bio.GOTerm
+GO:0043626,,,1018156,,,,org.intermine.model.bio.GOTerm
+GO:0030337,,,1018162,,,,org.intermine.model.bio.GOTerm
+GO:0006275,,,1018167,,,,org.intermine.model.bio.GOTerm
+GO:0030126,,,1018382,,,,org.intermine.model.bio.GOTerm
+GO:0004017,,,1018495,,,,org.intermine.model.bio.GOTerm
+GO:0030604,,,1018504,,,,org.intermine.model.bio.GOTerm
+GO:0004462,,,1018563,,,,org.intermine.model.bio.GOTerm
+GO:0048193,,,1018664,,,,org.intermine.model.bio.GOTerm
+GO:0001509,,,1018752,,,,org.intermine.model.bio.GOTerm
+GO:0003896,,,1018786,,,,org.intermine.model.bio.GOTerm
+GO:0016987,,,1018808,,,,org.intermine.model.bio.GOTerm
+GO:0006352,,,1018812,,,,org.intermine.model.bio.GOTerm
+,,,1018827,Phosphopantetheine,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0048037,,,1018830,,,,org.intermine.model.bio.GOTerm
+GO:0005102,,,1019272,,,,org.intermine.model.bio.GOTerm
+GO:0006270,,,1019297,,,,org.intermine.model.bio.GOTerm
+GO:0005667,,,1019680,,,,org.intermine.model.bio.GOTerm
+GO:0016563,,,1019687,,,,org.intermine.model.bio.GOTerm
+GO:0016272,,,1019703,,,,org.intermine.model.bio.GOTerm
+GO:0005093,,,1019747,,,,org.intermine.model.bio.GOTerm
+GO:0006431,,,1019771,,,,org.intermine.model.bio.GOTerm
+GO:0004825,,,1019774,,,,org.intermine.model.bio.GOTerm
+GO:0006544,,,1019953,,,,org.intermine.model.bio.GOTerm
+GO:0006563,,,1019956,,,,org.intermine.model.bio.GOTerm
+GO:0004372,,,1019959,,,,org.intermine.model.bio.GOTerm
+GO:0005759,,,1019966,,,,org.intermine.model.bio.GOTerm
+GO:0005044,,,1019978,,,,org.intermine.model.bio.GOTerm
+GO:0004367,,,1020036,,,,org.intermine.model.bio.GOTerm
+GO:0046168,,,1020041,,,,org.intermine.model.bio.GOTerm
+GO:0009186,,,1020330,,,,org.intermine.model.bio.GOTerm
+GO:0046914,,,1020334,,,,org.intermine.model.bio.GOTerm
+GO:0031461,,,1020379,,,,org.intermine.model.bio.GOTerm
+GO:0031625,,,1020382,,,,org.intermine.model.bio.GOTerm
+GO:0051258,,,1020457,,,,org.intermine.model.bio.GOTerm
+,,,1020568,Purine biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0016779,,,1020700,,,,org.intermine.model.bio.GOTerm
+GO:0004835,,,1020720,,,,org.intermine.model.bio.GOTerm
+GO:0019211,,,1020735,,,,org.intermine.model.bio.GOTerm
+GO:0008415,,,1020909,,,,org.intermine.model.bio.GOTerm
+GO:0004821,,,1020978,,,,org.intermine.model.bio.GOTerm
+GO:0006427,,,1020981,,,,org.intermine.model.bio.GOTerm
+GO:0022904,,,1021059,,,,org.intermine.model.bio.GOTerm
+GO:0006430,,,1021111,,,,org.intermine.model.bio.GOTerm
+GO:0004824,,,1021114,,,,org.intermine.model.bio.GOTerm
+,,,1021257,Manganese,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0016627,,,1021434,,,,org.intermine.model.bio.GOTerm
+GO:0005744,,,1021555,,,,org.intermine.model.bio.GOTerm
+GO:0015450,,,1021559,,,,org.intermine.model.bio.GOTerm
+GO:0004114,,,1021936,,,,org.intermine.model.bio.GOTerm
+GO:0008898,,,1021997,,,,org.intermine.model.bio.GOTerm
+GO:0019843,,,1022160,,,,org.intermine.model.bio.GOTerm
+GO:0008462,,,1022168,,,,org.intermine.model.bio.GOTerm
+GO:0046034,,,1022626,,,,org.intermine.model.bio.GOTerm
+GO:0006310,,,1022673,,,,org.intermine.model.bio.GOTerm
+GO:0004812,,,1022725,,,,org.intermine.model.bio.GOTerm
+GO:0006418,,,1022728,,,,org.intermine.model.bio.GOTerm
+GO:0006605,,,1022819,,,,org.intermine.model.bio.GOTerm
+GO:0006228,,,1023092,,,,org.intermine.model.bio.GOTerm
+GO:0006241,,,1023096,,,,org.intermine.model.bio.GOTerm
+GO:0006183,,,1023099,,,,org.intermine.model.bio.GOTerm
+GO:0004550,,,1023102,,,,org.intermine.model.bio.GOTerm
+GO:0030272,,,1023132,,,,org.intermine.model.bio.GOTerm
+GO:0044262,,,1023217,,,,org.intermine.model.bio.GOTerm
+GO:0046912,,,1023221,,,,org.intermine.model.bio.GOTerm
+,,,1023236,Autophagy,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006461,,,1023372,,,,org.intermine.model.bio.GOTerm
+GO:0005666,,,1023442,,,,org.intermine.model.bio.GOTerm
+GO:0006383,,,1023445,,,,org.intermine.model.bio.GOTerm
+GO:0008234,,,1023509,,,,org.intermine.model.bio.GOTerm
+GO:0004307,,,1023731,,,,org.intermine.model.bio.GOTerm
+GO:0004527,,,1023820,,,,org.intermine.model.bio.GOTerm
+GO:0016539,,,1023825,,,,org.intermine.model.bio.GOTerm
+,,,1023865,Thiamine pyrophosphate,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0030976,,,1023873,,,,org.intermine.model.bio.GOTerm
+GO:0004467,,,1023876,,,,org.intermine.model.bio.GOTerm
+GO:0019028,,,1023936,,,,org.intermine.model.bio.GOTerm
+GO:0006423,,,1024068,,,,org.intermine.model.bio.GOTerm
+GO:0004817,,,1024074,,,,org.intermine.model.bio.GOTerm
+GO:0006094,,,1024094,,,,org.intermine.model.bio.GOTerm
+GO:0004347,,,1024097,,,,org.intermine.model.bio.GOTerm
+GO:0042255,,,1025102,,,,org.intermine.model.bio.GOTerm
+GO:0004844,,,1025123,,,,org.intermine.model.bio.GOTerm
+GO:0019538,,,1025278,,,,org.intermine.model.bio.GOTerm
+GO:0016884,,,1025303,,,,org.intermine.model.bio.GOTerm
+GO:0030528,,,1025395,,,,org.intermine.model.bio.GOTerm
+GO:0006904,,,1025461,,,,org.intermine.model.bio.GOTerm
+GO:0005375,,,1025558,,,,org.intermine.model.bio.GOTerm
+GO:0006436,,,1025611,,,,org.intermine.model.bio.GOTerm
+GO:0004830,,,1025615,,,,org.intermine.model.bio.GOTerm
+GO:0019904,,,1025832,,,,org.intermine.model.bio.GOTerm
+GO:0043161,,,1025973,,,,org.intermine.model.bio.GOTerm
+GO:0004037,,,1025989,,,,org.intermine.model.bio.GOTerm
+,,,1026013,Amino-acid biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+,,,1026014,Aromatic amino acid biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004107,,,1026017,,,,org.intermine.model.bio.GOTerm
+GO:0009073,,,1026021,,,,org.intermine.model.bio.GOTerm
+,,,1026465,Decarboxylase,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0006221,,,1026468,,,,org.intermine.model.bio.GOTerm
+GO:0006207,,,1026472,,,,org.intermine.model.bio.GOTerm
+GO:0004590,,,1026475,,,,org.intermine.model.bio.GOTerm
+GO:0005681,,,1026654,,,,org.intermine.model.bio.GOTerm
+GO:0000049,,,1026766,,,,org.intermine.model.bio.GOTerm
+GO:0006306,,,1026817,,,,org.intermine.model.bio.GOTerm
+GO:0006342,,,1026889,,,,org.intermine.model.bio.GOTerm
+GO:0017136,,,1026893,,,,org.intermine.model.bio.GOTerm
+GO:0006476,,,1026900,,,,org.intermine.model.bio.GOTerm
+GO:0005677,,,1026905,,,,org.intermine.model.bio.GOTerm
+GO:0008324,,,1026926,,,,org.intermine.model.bio.GOTerm
+GO:0006812,,,1026932,,,,org.intermine.model.bio.GOTerm
+GO:0006435,,,1027004,,,,org.intermine.model.bio.GOTerm
+GO:0004829,,,1027010,,,,org.intermine.model.bio.GOTerm
+GO:0006397,,,1027042,,,,org.intermine.model.bio.GOTerm
+GO:0008641,,,1027131,,,,org.intermine.model.bio.GOTerm
+,,,1027300,Polyamine biosynthesis,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0008295,,,1027303,,,,org.intermine.model.bio.GOTerm
+GO:0004014,,,1027307,,,,org.intermine.model.bio.GOTerm
+GO:0006597,,,1027310,,,,org.intermine.model.bio.GOTerm
+GO:0017150,,,1027346,,,,org.intermine.model.bio.GOTerm
+GO:0006433,,,1027402,,,,org.intermine.model.bio.GOTerm
+GO:0004827,,,1027405,,,,org.intermine.model.bio.GOTerm
+GO:0019478,,,1027701,,,,org.intermine.model.bio.GOTerm
+GO:0015035,,,1027763,,,,org.intermine.model.bio.GOTerm
+GO:0004484,,,1027810,,,,org.intermine.model.bio.GOTerm
+GO:0006370,,,1027814,,,,org.intermine.model.bio.GOTerm
+GO:0010181,,,1027876,,,,org.intermine.model.bio.GOTerm
+GO:0003874,,,1028147,,,,org.intermine.model.bio.GOTerm
+GO:0006729,,,1028151,,,,org.intermine.model.bio.GOTerm
+GO:0004823,,,1028756,,,,org.intermine.model.bio.GOTerm
+GO:0006420,,,1028794,,,,org.intermine.model.bio.GOTerm
+GO:0004814,,,1028797,,,,org.intermine.model.bio.GOTerm
+GO:0003883,,,1028988,,,,org.intermine.model.bio.GOTerm
+GO:0050661,,,1029007,,,,org.intermine.model.bio.GOTerm
+GO:0004324,,,1029011,,,,org.intermine.model.bio.GOTerm
+GO:0042651,,,1029018,,,,org.intermine.model.bio.GOTerm
+GO:0008553,,,1029036,,,,org.intermine.model.bio.GOTerm
+GO:0045261,,,1029043,,,,org.intermine.model.bio.GOTerm
+GO:0008097,,,1029162,,,,org.intermine.model.bio.GOTerm
+GO:0004659,,,1029174,,,,org.intermine.model.bio.GOTerm
+GO:0008176,,,1029233,,,,org.intermine.model.bio.GOTerm
+GO:0008483,,,1029362,,,,org.intermine.model.bio.GOTerm
+GO:0005529,,,1029365,,,,org.intermine.model.bio.GOTerm
+GO:0016746,,,1029397,,,,org.intermine.model.bio.GOTerm
+GO:0006233,,,1029423,,,,org.intermine.model.bio.GOTerm
+GO:0006235,,,1029427,,,,org.intermine.model.bio.GOTerm
+GO:0004798,,,1029432,,,,org.intermine.model.bio.GOTerm
+GO:0008478,,,1029536,,,,org.intermine.model.bio.GOTerm
+GO:0006434,,,1029579,,,,org.intermine.model.bio.GOTerm
+GO:0004828,,,1029585,,,,org.intermine.model.bio.GOTerm
+GO:0004179,,,1029770,,,,org.intermine.model.bio.GOTerm
+GO:0030060,,,1029809,,,,org.intermine.model.bio.GOTerm
+GO:0008450,,,1029905,,,,org.intermine.model.bio.GOTerm
+GO:0004289,,,1030119,,,,org.intermine.model.bio.GOTerm
+GO:0004808,,,1030133,,,,org.intermine.model.bio.GOTerm
+GO:0004652,,,1030292,,,,org.intermine.model.bio.GOTerm
+GO:0043631,,,1030298,,,,org.intermine.model.bio.GOTerm
+GO:0004725,,,1030515,,,,org.intermine.model.bio.GOTerm
+GO:0004601,,,1030653,,,,org.intermine.model.bio.GOTerm
+GO:0016624,,,1031058,,,,org.intermine.model.bio.GOTerm
+GO:0008202,,,1031148,,,,org.intermine.model.bio.GOTerm
+GO:0004616,,,1031186,,,,org.intermine.model.bio.GOTerm
+GO:0006098,,,1031189,,,,org.intermine.model.bio.GOTerm
+GO:0004729,,,1031298,,,,org.intermine.model.bio.GOTerm
+,,,1031485,Serine protease,,1000003,org.intermine.model.bio.OntologyTerm
+GO:0004516,,,1031621,,,,org.intermine.model.bio.GOTerm
+GO:0019363,,,1031625,,,,org.intermine.model.bio.GOTerm
+,,,1000081,gene,,1000000,org.intermine.model.bio.SOTerm
+,,,2000002,chromosome,,1000000,org.intermine.model.bio.SOTerm
+,,,2000009,mRNA,,1000000,org.intermine.model.bio.SOTerm
+,,,2000012,exon,,1000000,org.intermine.model.bio.SOTerm

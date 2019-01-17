@@ -1,0 +1,5 @@
+identifier,obsolete,namespace,id,name,description,ontologyid,class
+,,,1000081,gene,,1000000,org.intermine.model.bio.SOTerm
+,,,2000002,chromosome,,1000000,org.intermine.model.bio.SOTerm
+,,,2000009,mRNA,,1000000,org.intermine.model.bio.SOTerm
+,,,2000012,exon,,1000000,org.intermine.model.bio.SOTerm

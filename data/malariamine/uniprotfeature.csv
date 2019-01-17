@@ -1,0 +1,384 @@
+intermine_end,intermine_begin,type,id,description,proteinid,featureid,class
+411,408,helix,1000027,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+402,396,helix,1000029,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+387,385,helix,1000030,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+238,231,strand,1000031,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+212,205,strand,1000032,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+185,181,strand,1000033,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+122,122,binding site,1000034,Substrate (by similarity),1000028,1000020,org.intermine.model.bio.UniProtFeature
+39,39,binding site,1000035,Substrate (by similarity),1000028,1000020,org.intermine.model.bio.UniProtFeature
+382,376,helix,1000036,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+170,170,binding site,1000037,Substrate (by similarity),1000028,1000020,org.intermine.model.bio.UniProtFeature
+132,129,strand,1000038,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+140,138,strand,1000039,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+163,158,strand,1000040,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+312,312,binding site,1000041,ATP; via carbonyl oxygen (by similarity),1000028,1000020,org.intermine.model.bio.UniProtFeature
+100,98,strand,1000042,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+117,114,strand,1000043,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+416,1,chain,1000044,Phosphoglycerate kinase,1000028,1000017,org.intermine.model.bio.UniProtFeature
+248,239,helix,1000045,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+227,220,helix,1000046,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+304,302,turn,1000047,,1000028,1000023,org.intermine.model.bio.UniProtFeature
+391,388,strand,1000048,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+61,56,strand,1000049,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+219,217,helix,1000050,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+35,33,strand,1000051,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+200,187,helix,1000052,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+370,367,strand,1000053,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+10,7,strand,1000054,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+23,18,strand,1000055,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+176,173,helix,1000056,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+4,2,strand,1000057,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+51,44,helix,1000058,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+42,38,helix,1000059,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+75,73,helix,1000060,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+274,265,helix,1000061,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+263,261,helix,1000062,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+215,215,binding site,1000063,ATP,1000028,1000020,org.intermine.model.bio.UniProtFeature
+328,323,helix,1000064,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+128,125,helix,1000065,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+301,297,strand,1000066,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+321,317,helix,1000067,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+123,121,helix,1000068,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+347,345,helix,1000069,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+315,311,strand,1000070,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+108,101,helix,1000071,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+88,78,helix,1000072,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+295,283,strand,1000073,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+280,278,strand,1000074,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+374,374,binding site,1000075,ATP,1000028,1000020,org.intermine.model.bio.UniProtFeature
+337,331,strand,1000076,,1000028,1000021,org.intermine.model.bio.UniProtFeature
+363,349,helix,1000077,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+154,143,helix,1000078,,1000028,1000022,org.intermine.model.bio.UniProtFeature
+343,343,binding site,1000079,ATP,1000028,1000020,org.intermine.model.bio.UniProtFeature
+539,1,chain,1000090,T-complex protein 1 subunit eta,1000091,1000017,org.intermine.model.bio.UniProtFeature
+89,82,strand,1000109,,1000110,1000021,org.intermine.model.bio.UniProtFeature
+79,71,strand,1000111,,1000110,1000021,org.intermine.model.bio.UniProtFeature
+60,57,turn,1000112,,1000110,1000023,org.intermine.model.bio.UniProtFeature
+17,8,helix,1000113,,1000110,1000022,org.intermine.model.bio.UniProtFeature
+33,33,active site,1000114,Nucleophile (by similarity),1000110,1000104,org.intermine.model.bio.UniProtFeature
+5,3,strand,1000115,,1000110,1000021,org.intermine.model.bio.UniProtFeature
+46,31,helix,1000116,,1000110,1000022,org.intermine.model.bio.UniProtFeature
+26,19,strand,1000117,,1000110,1000021,org.intermine.model.bio.UniProtFeature
+56,50,strand,1000118,,1000110,1000021,org.intermine.model.bio.UniProtFeature
+24,24,site,1000119,Deprotonates C-terminal active site Cys (by similarity),1000110,1000105,org.intermine.model.bio.UniProtFeature
+104,1,chain,1000120,Thioredoxin,1000110,1000017,org.intermine.model.bio.UniProtFeature
+100,92,helix,1000121,,1000110,1000022,org.intermine.model.bio.UniProtFeature
+31,31,site,1000122,Contributes to redox potential value (by similarity),1000110,1000105,org.intermine.model.bio.UniProtFeature
+66,61,helix,1000123,,1000110,1000022,org.intermine.model.bio.UniProtFeature
+32,32,site,1000124,Contributes to redox potential value (by similarity),1000110,1000105,org.intermine.model.bio.UniProtFeature
+30,30,active site,1000125,Nucleophile (by similarity),1000110,1000104,org.intermine.model.bio.UniProtFeature
+184,1,chain,1000138,Trafficking protein particle complex subunit 5,1000139,1000017,org.intermine.model.bio.UniProtFeature
+376,1,chain,1000149,Actin-1,1000150,1000017,org.intermine.model.bio.UniProtFeature
+35,22,topological domain,1000163,Cytoplasmic (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+221,204,topological domain,1000165,Cytoplasmic (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+99,81,topological domain,1000166,Cytoplasmic (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+183,172,topological domain,1000167,Lumenal (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+152,141,topological domain,1000168,Cytoplasmic (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+140,121,transmembrane region,1000169,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+113,100,transmembrane region,1000170,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+203,184,transmembrane region,1000171,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+80,62,transmembrane region,1000172,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+52,36,transmembrane region,1000173,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+120,114,topological domain,1000174,Lumenal (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+21,3,transmembrane region,1000175,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+61,53,topological domain,1000176,Lumenal (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+171,153,transmembrane region,1000177,potential,1000164,1000160,org.intermine.model.bio.UniProtFeature
+2,1,topological domain,1000178,Lumenal (potential),1000164,1000159,org.intermine.model.bio.UniProtFeature
+221,1,chain,1000179,ER lumen protein retaining receptor,1000164,1000017,org.intermine.model.bio.UniProtFeature
+272,247,propeptide,1000205,Removed in mature form (by similarity),1000206,1000198,org.intermine.model.bio.UniProtFeature
+149,149,glycosylation site,1000207,N-linked (GlcNAc...) (potential),1000206,1000201,org.intermine.model.bio.UniProtFeature
+221,221,glycosylation site,1000208,N-linked (GlcNAc...) (potential),1000206,1000201,org.intermine.model.bio.UniProtFeature
+246,21,chain,1000209,Merozoite surface antigen 2,1000206,1000017,org.intermine.model.bio.UniProtFeature
+36,36,glycosylation site,1000210,N-linked (GlcNAc...) (potential),1000206,1000201,org.intermine.model.bio.UniProtFeature
+245,245,glycosylation site,1000211,N-linked (GlcNAc...) (potential),1000206,1000201,org.intermine.model.bio.UniProtFeature
+246,246,glycosylation site,1000212,N-linked (GlcNAc...) (potential),1000206,1000201,org.intermine.model.bio.UniProtFeature
+20,1,signal peptide,1000213,potential,1000206,1000197,org.intermine.model.bio.UniProtFeature
+246,246,lipid moiety-binding region,1000214,GPI-anchor amidated asparagine (by similarity),1000206,1000200,org.intermine.model.bio.UniProtFeature
+22,22,glycosylation site,1000215,N-linked (GlcNAc...) (potential),1000206,1000201,org.intermine.model.bio.UniProtFeature
+818,1,chain,1000229,Myosin-A,1000230,1000017,org.intermine.model.bio.UniProtFeature
+58,1,chain,1000239,40S ribosomal protein S30,1000240,1000017,org.intermine.model.bio.UniProtFeature
+410,1,chain,1000248,Glycylpeptide N-tetradecanoyltransferase,1000249,1000017,org.intermine.model.bio.UniProtFeature
+414,1,chain,1000264,Ornithine aminotransferase,1000265,1000017,org.intermine.model.bio.UniProtFeature
+262,262,binding site,1000266,Pyridoxal phosphate (covalent) (by similarity),1000265,1000020,org.intermine.model.bio.UniProtFeature
+376,1,chain,1000276,Actin-2,1000277,1000017,org.intermine.model.bio.UniProtFeature
+211,1,chain,1000287,Glutathione S-transferase,1000288,1000017,org.intermine.model.bio.UniProtFeature
+213,,chain,1000297,"Putative 50S ribosomal protein L18, apicoplast",1000298,1000017,org.intermine.model.bio.UniProtFeature
+,1,transit peptide,1000299,Apicoplast (potential),1000298,1000294,org.intermine.model.bio.UniProtFeature
+464,458,helix,1000313,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+286,282,strand,1000315,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+446,435,helix,1000316,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+449,447,helix,1000317,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+342,339,strand,1000318,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+318,314,strand,1000319,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+326,321,strand,1000320,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+387,385,helix,1000321,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+356,352,helix,1000322,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+367,362,strand,1000323,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+374,370,strand,1000324,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+384,380,strand,1000325,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+425,423,strand,1000326,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+419,400,helix,1000327,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+431,428,strand,1000328,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+393,390,helix,1000329,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+297,290,helix,1000330,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+309,306,helix,1000331,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+13,11,helix,1000332,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+24,14,helix,1000333,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+27,25,helix,1000334,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+37,29,helix,1000335,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+100,97,strand,1000336,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+81,78,strand,1000337,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+76,72,strand,1000338,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+53,48,strand,1000339,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+348,346,turn,1000340,,1000314,1000023,org.intermine.model.bio.UniProtFeature
+56,56,binding site,1000341,Substrate (by similarity),1000314,1000020,org.intermine.model.bio.UniProtFeature
+312,310,turn,1000342,,1000314,1000023,org.intermine.model.bio.UniProtFeature
+331,328,helix,1000343,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+134,134,binding site,1000344,Substrate (by similarity),1000314,1000020,org.intermine.model.bio.UniProtFeature
+300,298,turn,1000345,,1000314,1000023,org.intermine.model.bio.UniProtFeature
+136,129,strand,1000346,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+125,121,strand,1000347,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+180,167,helix,1000348,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+191,186,helix,1000349,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+163,161,helix,1000350,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+91,85,helix,1000351,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+479,1,chain,1000352,Adenosylhomocysteinase,1000314,1000017,org.intermine.model.bio.UniProtFeature
+155,137,helix,1000353,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+118,107,helix,1000354,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+230,230,binding site,1000355,Substrate (by similarity),1000314,1000020,org.intermine.model.bio.UniProtFeature
+223,219,strand,1000356,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+234,234,binding site,1000357,Substrate (by similarity),1000314,1000020,org.intermine.model.bio.UniProtFeature
+68,57,helix,1000358,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+199,196,strand,1000359,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+200,200,binding site,1000360,Substrate (by similarity),1000314,1000020,org.intermine.model.bio.UniProtFeature
+231,228,helix,1000361,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+46,43,turn,1000362,,1000314,1000023,org.intermine.model.bio.UniProtFeature
+422,420,turn,1000363,,1000314,1000023,org.intermine.model.bio.UniProtFeature
+213,202,helix,1000364,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+263,258,strand,1000365,,1000314,1000021,org.intermine.model.bio.UniProtFeature
+279,267,helix,1000366,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+41,39,turn,1000367,,1000314,1000023,org.intermine.model.bio.UniProtFeature
+251,234,helix,1000368,,1000314,1000022,org.intermine.model.bio.UniProtFeature
+104,2,chain,1000380,60S ribosomal protein L44,1000381,1000017,org.intermine.model.bio.UniProtFeature
+1,1,initiator methionine,1000382,Removed (by similarity),1000381,1000377,org.intermine.model.bio.UniProtFeature
+182,180,turn,1000398,,1000399,1000023,org.intermine.model.bio.UniProtFeature
+18,12,turn,1000400,,1000399,1000023,org.intermine.model.bio.UniProtFeature
+197,185,helix,1000401,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+27,27,metal ion-binding site,1000402,Iron,1000399,1000395,org.intermine.model.bio.UniProtFeature
+74,74,metal ion-binding site,1000403,Iron,1000399,1000395,org.intermine.model.bio.UniProtFeature
+179,172,helix,1000404,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+158,158,metal ion-binding site,1000405,Iron,1000399,1000395,org.intermine.model.bio.UniProtFeature
+43,31,helix,1000406,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+168,165,helix,1000407,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+162,162,metal ion-binding site,1000408,Iron,1000399,1000395,org.intermine.model.bio.UniProtFeature
+29,21,helix,1000409,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+163,161,helix,1000410,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+158,152,strand,1000411,,1000399,1000021,org.intermine.model.bio.UniProtFeature
+101,92,helix,1000412,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+79,62,helix,1000413,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+59,53,helix,1000414,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+149,145,turn,1000415,,1000399,1000023,org.intermine.model.bio.UniProtFeature
+117,104,helix,1000416,,1000399,1000022,org.intermine.model.bio.UniProtFeature
+198,1,chain,1000417,Superoxide dismutase [Fe],1000399,1000017,org.intermine.model.bio.UniProtFeature
+128,120,strand,1000418,,1000399,1000021,org.intermine.model.bio.UniProtFeature
+50,47,turn,1000419,,1000399,1000023,org.intermine.model.bio.UniProtFeature
+140,134,strand,1000420,,1000399,1000021,org.intermine.model.bio.UniProtFeature
+564,1,chain,1000432,STI1-like protein,1000433,1000017,org.intermine.model.bio.UniProtFeature
+611,596,helix,1000444,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+626,621,helix,1000446,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+631,629,strand,1000447,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+576,574,helix,1000448,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+637,635,turn,1000449,,1000445,1000023,org.intermine.model.bio.UniProtFeature
+584,582,helix,1000450,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+570,567,strand,1000451,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+685,682,turn,1000452,,1000445,1000023,org.intermine.model.bio.UniProtFeature
+594,592,strand,1000453,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+652,642,helix,1000454,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+660,658,helix,1000455,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+786,779,strand,1000456,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+773,762,strand,1000457,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+752,748,strand,1000458,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+997,17,chain,1000459,Serine-repeat antigen protein,1000445,1000017,org.intermine.model.bio.UniProtFeature
+736,732,strand,1000460,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+707,702,strand,1000461,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+596,596,site,1000462,Ancestral active site (by similarity),1000445,1000105,org.intermine.model.bio.UniProtFeature
+741,738,helix,1000463,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+711,708,helix,1000464,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+729,715,helix,1000465,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+16,1,signal peptide,1000466,potential,1000445,1000197,org.intermine.model.bio.UniProtFeature
+792,790,turn,1000467,,1000445,1000023,org.intermine.model.bio.UniProtFeature
+184,184,glycosylation site,1000468,N-linked (GlcNAc...) (potential),1000445,1000201,org.intermine.model.bio.UniProtFeature
+787,787,active site,1000469,by similarity,1000445,1000104,org.intermine.model.bio.UniProtFeature
+762,762,active site,1000470,by similarity,1000445,1000104,org.intermine.model.bio.UniProtFeature
+667,665,helix,1000471,,1000445,1000022,org.intermine.model.bio.UniProtFeature
+813,810,strand,1000472,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+318,318,glycosylation site,1000473,N-linked (GlcNAc...) (potential),1000445,1000201,org.intermine.model.bio.UniProtFeature
+804,798,strand,1000474,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+828,828,glycosylation site,1000475,N-linked (GlcNAc...) (potential),1000445,1000201,org.intermine.model.bio.UniProtFeature
+820,816,strand,1000476,,1000445,1000021,org.intermine.model.bio.UniProtFeature
+10,10,binding site,1000496,Substrate (by similarity),1000497,1000020,org.intermine.model.bio.UniProtFeature
+12,12,binding site,1000498,Substrate (by similarity),1000497,1000020,org.intermine.model.bio.UniProtFeature
+165,165,active site,1000499,Proton acceptor (by similarity),1000497,1000104,org.intermine.model.bio.UniProtFeature
+248,1,chain,1000500,Triosephosphate isomerase,1000497,1000017,org.intermine.model.bio.UniProtFeature
+95,95,active site,1000501,Electrophile (by similarity),1000497,1000104,org.intermine.model.bio.UniProtFeature
+337,337,active site,1000514,by similarity,1000515,1000104,org.intermine.model.bio.UniProtFeature
+452,125,chain,1000516,Plasmepsin-1,1000515,1000017,org.intermine.model.bio.UniProtFeature
+,1,signal peptide,1000517,potential,1000515,1000197,org.intermine.model.bio.UniProtFeature
+440,440,glycosylation site,1000518,N-linked (GlcNAc...) (potential),1000515,1000201,org.intermine.model.bio.UniProtFeature
+326,326,glycosylation site,1000519,N-linked (GlcNAc...) (potential),1000515,1000201,org.intermine.model.bio.UniProtFeature
+218,218,glycosylation site,1000520,N-linked (GlcNAc...) (potential),1000515,1000201,org.intermine.model.bio.UniProtFeature
+184,184,glycosylation site,1000521,N-linked (GlcNAc...) (potential),1000515,1000201,org.intermine.model.bio.UniProtFeature
+124,,propeptide,1000522,Activation peptide (by similarity),1000515,1000198,org.intermine.model.bio.UniProtFeature
+157,157,active site,1000523,by similarity,1000515,1000104,org.intermine.model.bio.UniProtFeature
+96,1,chain,1000534,60S ribosomal protein L37a,1000535,1000017,org.intermine.model.bio.UniProtFeature
+2,2,lipid moiety-binding region,1000550,N-myristoyl glycine (potential),1000551,1000200,org.intermine.model.bio.UniProtFeature
+1,1,initiator methionine,1000552,Removed (by similarity),1000551,1000377,org.intermine.model.bio.UniProtFeature
+85,85,binding site,1000553,ATP (by similarity),1000551,1000020,org.intermine.model.bio.UniProtFeature
+191,191,active site,1000554,Proton acceptor (by similarity),1000551,1000104,org.intermine.model.bio.UniProtFeature
+524,2,chain,1000555,Calcium-dependent protein kinase 1,1000551,1000017,org.intermine.model.bio.UniProtFeature
+126,1,chain,1000565,Probable DNA-directed RNA polymerase II subunit RPB11,1000566,1000017,org.intermine.model.bio.UniProtFeature
+445,1,chain,1000578,Tubulin beta chain,1000579,1000017,org.intermine.model.bio.UniProtFeature
+743,1,chain,1000587,101 kDa malaria antigen,1000588,1000017,org.intermine.model.bio.UniProtFeature
+297,1,chain,1000602,Vacuolar protein sorting-associated protein 26,1000603,1000017,org.intermine.model.bio.UniProtFeature
+240,25,chain,1000614,"2-C-methyl-D-erythritol 2,4- cyclodiphosphate synthase",1000615,1000017,org.intermine.model.bio.UniProtFeature
+24,1,signal peptide,1000616,potential,1000615,1000197,org.intermine.model.bio.UniProtFeature
+141,1,chain,1000625,40S ribosomal protein S12,1000626,1000017,org.intermine.model.bio.UniProtFeature
+407,1,chain,1000634,Queuine tRNA-ribosyltransferase-like protein,1000635,1000017,org.intermine.model.bio.UniProtFeature
+125,125,active site,1000645,Proton acceptor (by similarity),1000646,1000104,org.intermine.model.bio.UniProtFeature
+158,158,modified residue,1000647,Phosphothreonine; by CAK (by similarity),1000646,1000642,org.intermine.model.bio.UniProtFeature
+14,14,modified residue,1000648,Phosphothreonine (by similarity),1000646,1000642,org.intermine.model.bio.UniProtFeature
+32,32,binding site,1000649,ATP (by similarity),1000646,1000020,org.intermine.model.bio.UniProtFeature
+15,15,modified residue,1000650,Phosphotyrosine (by similarity),1000646,1000642,org.intermine.model.bio.UniProtFeature
+288,1,chain,1000651,Cell division control protein 2 homolog,1000646,1000017,org.intermine.model.bio.UniProtFeature
+238,238,active site,1000665,Proton acceptor (by similarity),1000666,1000104,org.intermine.model.bio.UniProtFeature
+562,1,chain,1000667,Calcium-dependent protein kinase 3,1000666,1000017,org.intermine.model.bio.UniProtFeature
+147,147,binding site,1000668,ATP (by similarity),1000666,1000020,org.intermine.model.bio.UniProtFeature
+585,24,chain,1000679,S-antigen protein,1000680,1000017,org.intermine.model.bio.UniProtFeature
+23,1,signal peptide,1000681,by similarity,1000680,1000197,org.intermine.model.bio.UniProtFeature
+212,1,chain,1000691,Probable U3 small nucleolar RNA- associated protein 11,1000692,1000017,org.intermine.model.bio.UniProtFeature
+101,101,binding site,1000703,ATP (by similarity),1000704,1000020,org.intermine.model.bio.UniProtFeature
+2,2,lipid moiety-binding region,1000705,N-myristoyl glycine (potential),1000704,1000200,org.intermine.model.bio.UniProtFeature
+1,1,initiator methionine,1000706,Removed (by similarity),1000704,1000377,org.intermine.model.bio.UniProtFeature
+192,192,active site,1000707,Proton acceptor (by similarity),1000704,1000104,org.intermine.model.bio.UniProtFeature
+509,2,chain,1000708,Calcium-dependent protein kinase 2,1000704,1000017,org.intermine.model.bio.UniProtFeature
+299,283,helix,1000725,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+345,345,active site,1000727,Nucleophile (by similarity),1000726,1000104,org.intermine.model.bio.UniProtFeature
+238,234,helix,1000728,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+,1,transit peptide,1000729,Mitochondrion (potential),1000726,1000294,org.intermine.model.bio.UniProtFeature
+305,302,turn,1000730,,1000726,1000023,org.intermine.model.bio.UniProtFeature
+565,562,turn,1000731,,1000726,1000023,org.intermine.model.bio.UniProtFeature
+469,467,helix,1000732,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+481,479,helix,1000733,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+495,482,helix,1000734,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+312,307,strand,1000735,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+519,511,helix,1000736,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+534,529,helix,1000737,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+342,337,strand,1000738,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+558,556,strand,1000739,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+430,425,strand,1000740,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+422,418,strand,1000741,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+208,206,helix,1000742,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+193,181,helix,1000743,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+178,166,helix,1000744,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+569,,chain,1000745,"Dihydroorotate dehydrogenase homolog, mitochondrial",1000726,1000017,org.intermine.model.bio.UniProtFeature
+528,522,strand,1000746,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+498,496,turn,1000747,,1000726,1000023,org.intermine.model.bio.UniProtFeature
+561,559,helix,1000748,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+355,351,helix,1000749,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+537,535,helix,1000750,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+507,502,strand,1000751,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+223,215,strand,1000752,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+332,321,helix,1000753,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+553,538,helix,1000754,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+212,210,strand,1000755,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+335,333,helix,1000756,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+456,452,strand,1000757,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+448,436,helix,1000758,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+478,474,strand,1000759,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+250,243,strand,1000760,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+374,357,helix,1000761,,1000726,1000022,org.intermine.model.bio.UniProtFeature
+270,267,turn,1000762,,1000726,1000023,org.intermine.model.bio.UniProtFeature
+230,225,turn,1000763,,1000726,1000023,org.intermine.model.bio.UniProtFeature
+266,263,strand,1000764,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+241,239,turn,1000765,,1000726,1000023,org.intermine.model.bio.UniProtFeature
+274,271,strand,1000766,,1000726,1000021,org.intermine.model.bio.UniProtFeature
+171,1,chain,1000775,Translationally-controlled tumor protein homolog,1000776,1000017,org.intermine.model.bio.UniProtFeature
+3135,21,chain,1000783,Transmission-blocking target antigen S230,1000784,1000017,org.intermine.model.bio.UniProtFeature
+20,1,signal peptide,1000785,potential,1000784,1000197,org.intermine.model.bio.UniProtFeature
+152,152,binding site,1000797,Substrate (by similarity),1000798,1000020,org.intermine.model.bio.UniProtFeature
+62,62,binding site,1000799,Substrate (by similarity),1000798,1000020,org.intermine.model.bio.UniProtFeature
+369,1,chain,1000800,Fructose-bisphosphate aldolase,1000798,1000017,org.intermine.model.bio.UniProtFeature
+237,237,active site,1000801,Schiff-base intermediate with dihydroxyacetone-P (by similarity),1000798,1000104,org.intermine.model.bio.UniProtFeature
+195,195,active site,1000802,Proton acceptor (by similarity),1000798,1000104,org.intermine.model.bio.UniProtFeature
+369,369,site,1000803,"Necessary for preference for fructose 1,6-bisphosphate over fructose 1- phosphate (by similarity)",1000798,1000105,org.intermine.model.bio.UniProtFeature
+719,33,chain,1000811,T-cell immunomodulatory protein homolog,1000812,1000017,org.intermine.model.bio.UniProtFeature
+32,1,signal peptide,1000813,potential,1000812,1000197,org.intermine.model.bio.UniProtFeature
+659,659,glycosylation site,1000814,N-linked (GlcNAc...) (potential),1000812,1000201,org.intermine.model.bio.UniProtFeature
+410,410,glycosylation site,1000815,N-linked (GlcNAc...) (potential),1000812,1000201,org.intermine.model.bio.UniProtFeature
+719,698,topological domain,1000816,Cytoplasmic (potential),1000812,1000159,org.intermine.model.bio.UniProtFeature
+697,678,transmembrane region,1000817,potential,1000812,1000160,org.intermine.model.bio.UniProtFeature
+540,540,glycosylation site,1000818,N-linked (GlcNAc...) (potential),1000812,1000201,org.intermine.model.bio.UniProtFeature
+144,144,glycosylation site,1000819,N-linked (GlcNAc...) (potential),1000812,1000201,org.intermine.model.bio.UniProtFeature
+677,33,topological domain,1000820,Extracellular (potential),1000812,1000159,org.intermine.model.bio.UniProtFeature
+277,277,glycosylation site,1000821,N-linked (GlcNAc...) (potential),1000812,1000201,org.intermine.model.bio.UniProtFeature
+509,509,active site,1000829,Proton acceptor (by similarity),1000830,1000104,org.intermine.model.bio.UniProtFeature
+541,1,chain,1000831,Thioredoxin reductase,1000830,1000017,org.intermine.model.bio.UniProtFeature
+331,331,binding site,1000841,Substrate (by similarity),1000842,1000020,org.intermine.model.bio.UniProtFeature
+331,331,metal ion-binding site,1000843,Magnesium (by similarity),1000842,1000395,org.intermine.model.bio.UniProtFeature
+218,218,active site,1000844,Proton donor (by similarity),1000842,1000104,org.intermine.model.bio.UniProtFeature
+304,304,binding site,1000845,Substrate (by similarity),1000842,1000020,org.intermine.model.bio.UniProtFeature
+356,356,active site,1000846,Proton acceptor (by similarity),1000842,1000104,org.intermine.model.bio.UniProtFeature
+446,1,chain,1000847,Enolase,1000842,1000017,org.intermine.model.bio.UniProtFeature
+407,407,binding site,1000848,Substrate (by similarity),1000842,1000020,org.intermine.model.bio.UniProtFeature
+175,175,binding site,1000849,Substrate (by similarity),1000842,1000020,org.intermine.model.bio.UniProtFeature
+253,253,metal ion-binding site,1000850,Magnesium (by similarity),1000842,1000395,org.intermine.model.bio.UniProtFeature
+166,166,binding site,1000851,Substrate (by similarity),1000842,1000020,org.intermine.model.bio.UniProtFeature
+304,304,metal ion-binding site,1000852,Magnesium (by similarity),1000842,1000395,org.intermine.model.bio.UniProtFeature
+824,1,chain,1000861,Glycophorin-binding protein,1000862,1000017,org.intermine.model.bio.UniProtFeature
+500,2,chain,1000871,Glutathione reductase,1000872,1000017,org.intermine.model.bio.UniProtFeature
+1,1,initiator methionine,1000873,Removed (by similarity),1000872,1000377,org.intermine.model.bio.UniProtFeature
+485,485,active site,1000874,Proton acceptor (by similarity),1000872,1000104,org.intermine.model.bio.UniProtFeature
+281,1,chain,1000883,Acidic leucine-rich nuclear phosphoprotein 32-related protein,1000884,1000017,org.intermine.model.bio.UniProtFeature
+132,132,active site,1000895,potential,1000896,1000104,org.intermine.model.bio.UniProtFeature
+130,130,active site,1000897,potential,1000896,1000104,org.intermine.model.bio.UniProtFeature
+452,1,chain,1000898,DNA primase small subunit,1000896,1000017,org.intermine.model.bio.UniProtFeature
+59,59,active site,1000899,potential,1000896,1000104,org.intermine.model.bio.UniProtFeature
+2,2,modified residue,1000910,N-acetylalanine (by similarity),1000911,1000642,org.intermine.model.bio.UniProtFeature
+149,2,chain,1000912,Calmodulin,1000911,1000017,org.intermine.model.bio.UniProtFeature
+1,1,initiator methionine,1000913,Removed (by similarity),1000911,1000377,org.intermine.model.bio.UniProtFeature
+624,624,active site,1000925,by similarity,1000926,1000104,org.intermine.model.bio.UniProtFeature
+450,450,binding site,1000927,Chloride (by similarity),1000926,1000020,org.intermine.model.bio.UniProtFeature
+416,416,modified residue,1000928,Sulfothreonine,1000926,1000642,org.intermine.model.bio.UniProtFeature
+700,,chain,1000929,Probable cathepsin C,1000926,1000017,org.intermine.model.bio.UniProtFeature
+549,549,binding site,1000930,Chloride (by similarity),1000926,1000020,org.intermine.model.bio.UniProtFeature
+,28,propeptide,1000931,potential,1000926,1000198,org.intermine.model.bio.UniProtFeature
+648,648,active site,1000932,by similarity,1000926,1000104,org.intermine.model.bio.UniProtFeature
+373,373,glycosylation site,1000933,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+337,337,glycosylation site,1000934,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+398,398,active site,1000935,by similarity,1000926,1000104,org.intermine.model.bio.UniProtFeature
+52,52,glycosylation site,1000936,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+265,265,glycosylation site,1000937,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+144,144,glycosylation site,1000938,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+667,667,glycosylation site,1000939,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+615,615,glycosylation site,1000940,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+507,507,glycosylation site,1000941,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+490,490,glycosylation site,1000942,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+481,481,glycosylation site,1000943,N-linked (GlcNAc...) (potential),1000926,1000201,org.intermine.model.bio.UniProtFeature
+27,1,signal peptide,1000944,potential,1000926,1000197,org.intermine.model.bio.UniProtFeature
+235,235,metal ion-binding site,1000951,Magnesium 1 (by similarity),1000952,1000395,org.intermine.model.bio.UniProtFeature
+203,203,metal ion-binding site,1000953,Magnesium 2 (by similarity),1000952,1000395,org.intermine.model.bio.UniProtFeature
+198,198,metal ion-binding site,1000954,Magnesium 1 (by similarity),1000952,1000395,org.intermine.model.bio.UniProtFeature
+380,1,chain,1000955,Probable inorganic pyrophosphatase,1000952,1000017,org.intermine.model.bio.UniProtFeature
+203,203,metal ion-binding site,1000956,Magnesium 1 (by similarity),1000952,1000395,org.intermine.model.bio.UniProtFeature
+38,38,binding site,1000967,ATP (by similarity),1000968,1000020,org.intermine.model.bio.UniProtFeature
+128,128,active site,1000969,Proton acceptor (by similarity),1000968,1000104,org.intermine.model.bio.UniProtFeature
+323,1,chain,1000970,Casein kinase I,1000968,1000017,org.intermine.model.bio.UniProtFeature
+1229,1,chain,1000977,Putative cell division cycle ATPase,1000978,1000017,org.intermine.model.bio.UniProtFeature
+2,2,lipid moiety-binding region,1000990,N-myristoyl glycine (potential),1000991,1000200,org.intermine.model.bio.UniProtFeature
+99,99,binding site,1000992,ATP (by similarity),1000991,1000020,org.intermine.model.bio.UniProtFeature
+528,2,chain,1000993,Calcium-dependent protein kinase 4,1000991,1000017,org.intermine.model.bio.UniProtFeature
+193,193,active site,1000994,Proton acceptor (by similarity),1000991,1000104,org.intermine.model.bio.UniProtFeature
+1,1,initiator methionine,1000995,Removed (by similarity),1000991,1000377,org.intermine.model.bio.UniProtFeature
+274,1,chain,1001003,Proliferating cell nuclear antigen,1001004,1000017,org.intermine.model.bio.UniProtFeature
+611,1,chain,1001017,V-type proton ATPase catalytic subunit A,1001018,1000017,org.intermine.model.bio.UniProtFeature

@@ -1,0 +1,15 @@
+secondaryidentifier,symbol,primaryidentifier,length,id,name,scoretype,score,chromosomeid,chromosomelocationid,organismid,sequenceid,sequenceontologytermid,class
+,,MAL1,643292,2000003,,,,,,1000026,3000001,2000002,org.intermine.model.bio.Chromosome
+,,MAL10,1694445,2001543,,,,,,1000026,3000003,2000002,org.intermine.model.bio.Chromosome
+,,MAL11,2035250,2005087,,,,,,1000026,3000005,2000002,org.intermine.model.bio.Chromosome
+,,MAL12,2271477,2009465,,,,,,1000026,3000007,2000002,org.intermine.model.bio.Chromosome
+,,MAL13,2895605,2014270,,,,,,1000026,3000009,2000002,org.intermine.model.bio.Chromosome
+,,MAL14,3291006,2021332,,,,,,1000026,3000011,2000002,org.intermine.model.bio.Chromosome
+,,MAL2,947102,2028295,,,,,,1000026,3000013,2000002,org.intermine.model.bio.Chromosome
+,,MAL3,1060087,2030525,,,,,,1000026,3000015,2000002,org.intermine.model.bio.Chromosome
+,,MAL4,1204112,2033088,,,,,,1000026,3000017,2000002,org.intermine.model.bio.Chromosome
+,,MAL5,1343552,2035638,,,,,,1000026,3000019,2000002,org.intermine.model.bio.Chromosome
+,,MAL6,1418244,2038866,,,,,,1000026,3000021,2000002,org.intermine.model.bio.Chromosome
+,,MAL7,1501719,2041851,,,,,,1000026,3000023,2000002,org.intermine.model.bio.Chromosome
+,,MAL8,1419563,2044993,,,,,,1000026,3000025,2000002,org.intermine.model.bio.Chromosome
+,,MAL9,1541723,2048348,,,,,,1000026,3000027,2000002,org.intermine.model.bio.Chromosome

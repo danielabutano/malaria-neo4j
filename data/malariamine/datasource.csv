@@ -1,0 +1,4 @@
+id,name,description,url,class
+1000001,UniProt,,,org.intermine.model.bio.DataSource
+1000080,RefSeq,,,org.intermine.model.bio.DataSource
+2000000,PlasmoDB,,,org.intermine.model.bio.DataSource

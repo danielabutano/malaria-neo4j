@@ -1,0 +1,906 @@
+type,id,description,class
+catalytic activity,1000007,ATP + 3-phospho-D-glycerate = ADP + 3-phospho-D-glyceroyl phosphate.,org.intermine.model.bio.Comment
+pathway,1000008,Carbohydrate degradation; glycolysis; pyruvate from D-glyceraldehyde 3-phosphate: step 2/5.,org.intermine.model.bio.Comment
+subunit,1000009,Monomer.,org.intermine.model.bio.Comment
+similarity,1000010,Belongs to the phosphoglycerate kinase family.,org.intermine.model.bio.Comment
+similarity,1000085,Belongs to the TCP-1 chaperonin family.,org.intermine.model.bio.Comment
+similarity,1000098,Belongs to the thioredoxin family.,org.intermine.model.bio.Comment
+similarity,1000099,Contains 1 thioredoxin domain.,org.intermine.model.bio.Comment
+function,1000129,May play a role in vesicular transport from endoplasmic reticulum to Golgi.,org.intermine.model.bio.Comment
+subcellular location,1000130,"Schizont membrane, internal surface of parasitized erythrocytes and on membranous structures in the erythrocyte cytoplasm.",org.intermine.model.bio.Comment
+similarity,1000131,Belongs to the TRAPP small subunits family. BET3 subfamily.,org.intermine.model.bio.Comment
+function,1000143,Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.,org.intermine.model.bio.Comment
+similarity,1000144,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1000154,Belongs to the ERD2 family.,org.intermine.model.bio.Comment
+function,1000188,May play a role in the merozoite attachment to the erythrocyte.,org.intermine.model.bio.Comment
+developmental stage,1000189,During the trophozoite and schizont stages.,org.intermine.model.bio.Comment
+subcellular location,1000221,Tightly associated with the plasma membrane.,org.intermine.model.bio.Comment
+domain,1000222,This protein differs from the typical myosin heavy chain structure in having head and tail domains but no discernible neck domain.,org.intermine.model.bio.Comment
+similarity,1000223,Contains 1 myosin head-like domain.,org.intermine.model.bio.Comment
+similarity,1000234,Belongs to the ribosomal protein S30e family.,org.intermine.model.bio.Comment
+catalytic activity,1000243,Tetradecanoyl-CoA + glycylpeptide = CoA + N-tetradecanoylglycylpeptide.,org.intermine.model.bio.Comment
+similarity,1000244,Belongs to the NMT family.,org.intermine.model.bio.Comment
+function,1000256,The enzyme has a very narrow substrate specificity and can only catalyze the transamination of alpha-ketoglutarate with ornithine or N-acetylornithine and of glutamate-5-semialdehyde with glutamate and alanine.,org.intermine.model.bio.Comment
+catalytic activity,1000257,L-ornithine + a 2-oxo acid = L-glutamate 5-semialdehyde + an L-amino acid.,org.intermine.model.bio.Comment
+pathway,1000258,Amino-acid biosynthesis; L-proline biosynthesis; L-glutamate 5-semialdehyde from L-ornithine: step 1/1.,org.intermine.model.bio.Comment
+similarity,1000259,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family.,org.intermine.model.bio.Comment
+function,1000271,Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.,org.intermine.model.bio.Comment
+developmental stage,1000272,"Actin-1 is formed throughout P.falciparum's life cycle. Actin-2 is stage-specific, formed only in the sexual stages of the parasite's life cycle.",org.intermine.model.bio.Comment
+similarity,1000273,Belongs to the actin family.,org.intermine.model.bio.Comment
+catalytic activity,1000281,RX + glutathione = HX + R-S-glutathione.,org.intermine.model.bio.Comment
+similarity,1000282,Belongs to the GST superfamily.,org.intermine.model.bio.Comment
+similarity,1000283,Contains 1 GST C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1000284,Contains 1 GST N-terminal domain.,org.intermine.model.bio.Comment
+catalytic activity,1000304,S-adenosyl-L-homocysteine + H(2)O = L-homocysteine + adenosine.,org.intermine.model.bio.Comment
+pathway,1000305,Amino-acid biosynthesis; homocysteine biosynthesis; L-homocysteine from S-adenosyl-L-homocysteine: step 1/1.,org.intermine.model.bio.Comment
+subunit,1000306,Homotetramer.,org.intermine.model.bio.Comment
+similarity,1000307,Belongs to the adenosylhomocysteinase family.,org.intermine.model.bio.Comment
+similarity,1000376,Belongs to the ribosomal protein L44e family.,org.intermine.model.bio.Comment
+function,1000387,Destroys radicals which are normally produced within the cells and which are toxic to biological systems.,org.intermine.model.bio.Comment
+catalytic activity,1000388,2 superoxide + 2 H(+) = O(2) + H(2)O(2).,org.intermine.model.bio.Comment
+cofactor,1000389,Binds 1 iron ion per subunit.,org.intermine.model.bio.Comment
+subunit,1000390,Homodimer.,org.intermine.model.bio.Comment
+similarity,1000391,Belongs to the iron/manganese superoxide dismutase family.,org.intermine.model.bio.Comment
+similarity,1000424,Contains 1 STI1 domain.,org.intermine.model.bio.Comment
+similarity,1000425,Contains 9 TPR repeats.,org.intermine.model.bio.Comment
+subcellular location,1000436,Exported antigen that accumulates in the parasitophorous vacuole.,org.intermine.model.bio.Comment
+PTM,1000437,Contains numerous possible O-linked glycosylation and serine phosphorylation sites.,org.intermine.model.bio.Comment
+similarity,1000438,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+catalytic activity,1000485,D-glyceraldehyde 3-phosphate = glycerone phosphate.,org.intermine.model.bio.Comment
+pathway,1000486,Carbohydrate biosynthesis; gluconeogenesis.,org.intermine.model.bio.Comment
+pathway,1000487,Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-phosphate from glycerone phosphate: step 1/1.,org.intermine.model.bio.Comment
+similarity,1000488,Belongs to the triosephosphate isomerase family.,org.intermine.model.bio.Comment
+catalytic activity,1000506,"Hydrolysis of the 33-Phe-|-Leu-34 bond in the alpha-chain of hemoglobin, leading to denaturation of molecule.",org.intermine.model.bio.Comment
+subcellular location,1000507,Could be first anchored to the membrane through its propeptide before being released.,org.intermine.model.bio.Comment
+developmental stage,1000508,Erythrocytic stages.,org.intermine.model.bio.Comment
+similarity,1000509,Belongs to the peptidase A1 family.,org.intermine.model.bio.Comment
+similarity,1000528,Belongs to the ribosomal protein L37Ae family.,org.intermine.model.bio.Comment
+catalytic activity,1000538,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+subcellular location,1000539,In the parasite and on erithrocytic membrane at a lower level.,org.intermine.model.bio.Comment
+similarity,1000540,Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.,org.intermine.model.bio.Comment
+similarity,1000541,Contains 4 EF-hand domains.,org.intermine.model.bio.Comment
+similarity,1000542,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1000559,Belongs to the archaeal rpoL/eukaryotic RPB11/RPC19 RNA polymerase subunit family.,org.intermine.model.bio.Comment
+function,1000571,"Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha-chain.",org.intermine.model.bio.Comment
+subunit,1000572,Dimer of alpha and beta chains.,org.intermine.model.bio.Comment
+similarity,1000573,Belongs to the tubulin family.,org.intermine.model.bio.Comment
+subcellular location,1000583,At the merozoite surface and within the parasitophorous vacuole.,org.intermine.model.bio.Comment
+similarity,1000584,Belongs to the plasmodium ABRA family.,org.intermine.model.bio.Comment
+similarity,1000599,Belongs to the VPS26 family.,org.intermine.model.bio.Comment
+catalytic activity,1000607,"2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol = 2-C-methyl-D-erythritol 2,4-cyclodiphosphate + CMP.",org.intermine.model.bio.Comment
+pathway,1000608,Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate: step 4/6.,org.intermine.model.bio.Comment
+similarity,1000609,Belongs to the ispF family.,org.intermine.model.bio.Comment
+similarity,1000622,Belongs to the ribosomal protein S12e family.,org.intermine.model.bio.Comment
+similarity,1000630,Belongs to the queuine tRNA-ribosyltransferase family.,org.intermine.model.bio.Comment
+catalytic activity,1000638,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+catalytic activity,1000639,ATP + [DNA-directed RNA polymerase]= ADP + [DNA-directed RNA polymerase]phosphate.,org.intermine.model.bio.Comment
+similarity,1000640,Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.,org.intermine.model.bio.Comment
+similarity,1000641,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+catalytic activity,1000656,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+developmental stage,1000657,"Expressed in sexual stages, but not in asexual stages.",org.intermine.model.bio.Comment
+similarity,1000658,Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.,org.intermine.model.bio.Comment
+similarity,1000659,Contains 4 EF-hand domains.,org.intermine.model.bio.Comment
+similarity,1000660,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+function,1000675,S antigens are soluble heat-stable proteins present in the sera of some infected individuals.,org.intermine.model.bio.Comment
+polymorphism,1000676,Diversity in S-antigen is mainly due to polymorphism in the repetitive regions.,org.intermine.model.bio.Comment
+similarity,1000687,Belongs to the UTP11 family.,org.intermine.model.bio.Comment
+catalytic activity,1000696,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+developmental stage,1000697,"Expressed in sexual stages, but not in asexual stages.",org.intermine.model.bio.Comment
+similarity,1000698,Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.,org.intermine.model.bio.Comment
+similarity,1000699,Contains 3 EF-hand domains.,org.intermine.model.bio.Comment
+similarity,1000700,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+catalytic activity,1000714,(S)-dihydroorotate + O(2) = orotate + H(2)O(2).,org.intermine.model.bio.Comment
+cofactor,1000715,Binds 1 FAD per subunit.,org.intermine.model.bio.Comment
+pathway,1000716,Pyrimidine metabolism; UMP biosynthesis via de novo pathway; UMP from HCO(3)(-): step 4/6.,org.intermine.model.bio.Comment
+similarity,1000717,Belongs to the dihydroorotate dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1000772,Belongs to the TCTP family.,org.intermine.model.bio.Comment
+developmental stage,1000780,Gametocyte.,org.intermine.model.bio.Comment
+catalytic activity,1000791,"D-fructose 1,6-bisphosphate = glycerone phosphate + D-glyceraldehyde 3-phosphate.",org.intermine.model.bio.Comment
+pathway,1000792,Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-phosphate and glycerone phosphate from D-glucose: step 4/4.,org.intermine.model.bio.Comment
+similarity,1000793,Belongs to the class I fructose-bisphosphate aldolase family.,org.intermine.model.bio.Comment
+function,1000807,May protect the parasite against attack by the host immune system by immunomodulation.,org.intermine.model.bio.Comment
+similarity,1000808,Belongs to the TIP family.,org.intermine.model.bio.Comment
+catalytic activity,1000824,Thioredoxin + NADP(+) = thioredoxin disulfide + NADPH.,org.intermine.model.bio.Comment
+similarity,1000825,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.,org.intermine.model.bio.Comment
+catalytic activity,1000835,2-phospho-D-glycerate = phosphoenolpyruvate + H(2)O.,org.intermine.model.bio.Comment
+pathway,1000836,Carbohydrate degradation; glycolysis; pyruvate from D-glyceraldehyde 3-phosphate: step 4/5.,org.intermine.model.bio.Comment
+similarity,1000837,Belongs to the enolase family.,org.intermine.model.bio.Comment
+subcellular location,1000857,Erythrocyte cytoplasm of schizonts. Released into the culture supernatant at the time of schizont rupture. Only a minor fraction of GBP was found to be loosely associated with merozoites.,org.intermine.model.bio.Comment
+similarity,1000858,Contains 12 GBP repeats.,org.intermine.model.bio.Comment
+catalytic activity,1000866,2 glutathione + NADP(+) = glutathione disulfide + NADPH.,org.intermine.model.bio.Comment
+miscellaneous,1000867,The active site is a redox-active disulfide bond.,org.intermine.model.bio.Comment
+similarity,1000868,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.,org.intermine.model.bio.Comment
+similarity,1000878,Belongs to the ANP32 family.,org.intermine.model.bio.Comment
+similarity,1000879,Contains 4 LRR (leucine-rich) repeats.,org.intermine.model.bio.Comment
+subunit,1000888,Heterodimer of a small subunit and a large subunit.,org.intermine.model.bio.Comment
+similarity,1000889,Belongs to the eukaryotic-type primase small subunit family.,org.intermine.model.bio.Comment
+function,1000903,Calmodulin mediates the control of a large number of enzymes and other proteins by Ca(2+). Among the enzymes to be stimulated by the calmodulin-Ca(2+) complex are a number of protein kinases and phosphatases.,org.intermine.model.bio.Comment
+miscellaneous,1000904,Calmodulin is not involved in the mechanism of chloroquine resistance.,org.intermine.model.bio.Comment
+similarity,1000905,Belongs to the calmodulin family.,org.intermine.model.bio.Comment
+similarity,1000906,Contains 4 EF-hand domains.,org.intermine.model.bio.Comment
+function,1000918,Thiol protease. Has a role as a digestive enzyme.,org.intermine.model.bio.Comment
+similarity,1000919,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+catalytic activity,1000947,Diphosphate + H(2)O = 2 phosphate.,org.intermine.model.bio.Comment
+similarity,1000948,Belongs to the PPase family.,org.intermine.model.bio.Comment
+catalytic activity,1000962,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+similarity,1000963,Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.,org.intermine.model.bio.Comment
+similarity,1000964,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1000973,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+catalytic activity,1000983,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+developmental stage,1000984,"Highly expressed in sexual stages, compared to blood asexual stages.",org.intermine.model.bio.Comment
+similarity,1000985,Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.,org.intermine.model.bio.Comment
+similarity,1000986,Contains 4 EF-hand domains.,org.intermine.model.bio.Comment
+similarity,1000987,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1000998,Belongs to the PCNA family.,org.intermine.model.bio.Comment
+function,1001009,Catalytic subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells.,org.intermine.model.bio.Comment
+catalytic activity,1001010,ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out).,org.intermine.model.bio.Comment
+subunit,1001011,"V-ATPase is an heteromultimeric enzyme composed of a peripheral catalytic V1 complex (main components: subunits A, B, C, D, E, and F) attached to an integral membrane V0 proton pore complex (main component: the proteolipid protein).",org.intermine.model.bio.Comment
+similarity,1001012,Belongs to the ATPase alpha/beta chains family.,org.intermine.model.bio.Comment
+similarity,1001082,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1001257,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1001296,Contains 1 FH2 (formin homology 2) domain.,org.intermine.model.bio.Comment
+similarity,1001317,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1001368,Belongs to the TCP-1 chaperonin family.,org.intermine.model.bio.Comment
+similarity,1001437,Belongs to the histone H4 family.,org.intermine.model.bio.Comment
+similarity,1001546,Belongs to the ribosomal protein S7P family.,org.intermine.model.bio.Comment
+similarity,1001551,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1001703,Belongs to the ribose-phosphate pyrophosphokinase family.,org.intermine.model.bio.Comment
+similarity,1001783,Belongs to the cation transport ATPase (P-type) family.,org.intermine.model.bio.Comment
+similarity,1001805,Belongs to the UPP synthetase family.,org.intermine.model.bio.Comment
+similarity,1001818,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1001870,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.,org.intermine.model.bio.Comment
+similarity,1001931,Belongs to the ribosomal protein S4P family.,org.intermine.model.bio.Comment
+similarity,1001932,Contains 1 S4 RNA-binding domain.,org.intermine.model.bio.Comment
+similarity,1001970,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1001990,Belongs to the recA family.,org.intermine.model.bio.Comment
+similarity,1002058,Belongs to the GTP-binding elongation factor family. EF-Tu/EF-1A subfamily.,org.intermine.model.bio.Comment
+similarity,1002070,Belongs to the hexokinase family.,org.intermine.model.bio.Comment
+similarity,1002157,Belongs to the eukaryotic initiation factor 4E family.,org.intermine.model.bio.Comment
+similarity,1002239,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1002258,Contains 1 MHD (mu homology) domain.,org.intermine.model.bio.Comment
+similarity,1002303,Belongs to the FPP/GGPP synthetase family.,org.intermine.model.bio.Comment
+similarity,1002326,Belongs to the cation transport ATPase (P-type) family.,org.intermine.model.bio.Comment
+similarity,1002359,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1002399,Contains 1 C2 domain.,org.intermine.model.bio.Comment
+similarity,1002400,Contains 1 PI-PLC X-box domain.,org.intermine.model.bio.Comment
+similarity,1002401,Contains 1 PI-PLC Y-box domain.,org.intermine.model.bio.Comment
+similarity,1002453,Contains 2 cyclic nucleotide-binding domains.,org.intermine.model.bio.Comment
+similarity,1002530,Belongs to the ribosomal protein L38e family.,org.intermine.model.bio.Comment
+similarity,1002578,Contains 1 CSD (cold-shock) domain.,org.intermine.model.bio.Comment
+similarity,1002607,Belongs to the TCP-1 chaperonin family.,org.intermine.model.bio.Comment
+similarity,1002628,Belongs to the ribosomal protein S9P family.,org.intermine.model.bio.Comment
+similarity,1002637,Belongs to the TCP-1 chaperonin family.,org.intermine.model.bio.Comment
+similarity,1002700,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1002772,Contains 1 OTU domain.,org.intermine.model.bio.Comment
+similarity,1002824,Contains 1 PI5K domain.,org.intermine.model.bio.Comment
+similarity,1002834,Belongs to the ribosomal protein S11P family.,org.intermine.model.bio.Comment
+similarity,1002852,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1002975,Contains 1 MPN (JAB/Mov34) domain.,org.intermine.model.bio.Comment
+catalytic activity,1003131,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1003132,Belongs to the FKBP-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1003237,Contains 1 Arf-GAP domain.,org.intermine.model.bio.Comment
+similarity,1003251,Contains 1 GST C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1003252,Contains 1 GST N-terminal domain.,org.intermine.model.bio.Comment
+similarity,1003261,Belongs to the ribosomal protein L10P family.,org.intermine.model.bio.Comment
+similarity,1003303,Contains 1 MSP domain.,org.intermine.model.bio.Comment
+similarity,1003335,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1003363,Contains 1 helicase ATP-binding domain.,org.intermine.model.bio.Comment
+similarity,1003364,Contains 1 helicase C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1003377,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1003475,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1003616,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1003733,Belongs to the beta-ketoacyl-ACP synthases family.,org.intermine.model.bio.Comment
+similarity,1003789,Belongs to the heat shock protein 70 family.,org.intermine.model.bio.Comment
+similarity,1003988,Belongs to the adenylate kinase family.,org.intermine.model.bio.Comment
+similarity,1004020,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1004075,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1004125,Belongs to the ribosomal protein L23P family.,org.intermine.model.bio.Comment
+similarity,1004135,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+catalytic activity,1004146,ATP + pyruvate = ADP + phosphoenolpyruvate.,org.intermine.model.bio.Comment
+pathway,1004147,Carbohydrate degradation; glycolysis; pyruvate from D-glyceraldehyde 3-phosphate: step 5/5.,org.intermine.model.bio.Comment
+similarity,1004148,Belongs to the pyruvate kinase family.,org.intermine.model.bio.Comment
+similarity,1004166,Contains 2 KH domains.,org.intermine.model.bio.Comment
+similarity,1004184,Belongs to the cytochrome c family.,org.intermine.model.bio.Comment
+similarity,1004226,Belongs to the peptidase M18 family.,org.intermine.model.bio.Comment
+similarity,1004271,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+cofactor,1004374,FAD.,org.intermine.model.bio.Comment
+similarity,1004375,Contains 1 FAD-binding FR-type domain.,org.intermine.model.bio.Comment
+catalytic activity,1004488,ATP + (deoxyribonucleotide)(n) + (deoxyribonucleotide)(m) = AMP + diphosphate + (deoxyribonucleotide)(n+m).,org.intermine.model.bio.Comment
+similarity,1004489,Belongs to the ATP-dependent DNA ligase family.,org.intermine.model.bio.Comment
+similarity,1004497,Belongs to the FPP/GGPP synthetase family.,org.intermine.model.bio.Comment
+similarity,1004514,Belongs to the MAP1 LC3 family.,org.intermine.model.bio.Comment
+similarity,1004525,Contains 1 SEC7 domain.,org.intermine.model.bio.Comment
+similarity,1004566,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1004619,Contains 1 CTLH domain.,org.intermine.model.bio.Comment
+similarity,1004620,Contains 1 LisH domain.,org.intermine.model.bio.Comment
+similarity,1004625,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1004694,Contains 1 UBX domain.,org.intermine.model.bio.Comment
+similarity,1004815,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1004849,Belongs to the era/trmE GTP-binding protein family.,org.intermine.model.bio.Comment
+similarity,1005039,Belongs to the ribosomal protein L17P family.,org.intermine.model.bio.Comment
+similarity,1005076,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+catalytic activity,1005086,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+similarity,1005087,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1005088,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1005112,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1005136,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1005137,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1005176,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1005212,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1005213,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1005315,Contains 1 SET domain.,org.intermine.model.bio.Comment
+catalytic activity,1005379,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1005380,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1005411,Belongs to the gcvT family.,org.intermine.model.bio.Comment
+similarity,1005425,Belongs to the RNA methyltransferase trmH family.,org.intermine.model.bio.Comment
+catalytic activity,1005448,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1005449,Belongs to the RNA polymerase beta chain family.,org.intermine.model.bio.Comment
+similarity,1005499,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+catalytic activity,1005517,Ubiquitin C-terminal thioester + H(2)O = ubiquitin + a thiol.,org.intermine.model.bio.Comment
+similarity,1005518,Belongs to the peptidase C19 family.,org.intermine.model.bio.Comment
+similarity,1005535,Contains 1 lipoyl-binding domain.,org.intermine.model.bio.Comment
+similarity,1005654,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1005659,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1005740,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1005805,Contains 1 HECT (E6AP-type E3 ubiquitin-protein ligase) domain.,org.intermine.model.bio.Comment
+catalytic activity,1005867,"ATP-dependent breakage, passage and rejoining of double-stranded DNA.",org.intermine.model.bio.Comment
+similarity,1005868,Belongs to the type II topoisomerase family.,org.intermine.model.bio.Comment
+similarity,1005958,Contains 1 ubiquitin-like domain.,org.intermine.model.bio.Comment
+similarity,1006072,Contains 1 HECT (E6AP-type E3 ubiquitin-protein ligase) domain.,org.intermine.model.bio.Comment
+similarity,1006077,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1006082,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1006115,Contains 1 KH type-2 domain.,org.intermine.model.bio.Comment
+similarity,1006199,Belongs to the ribose-phosphate pyrophosphokinase family.,org.intermine.model.bio.Comment
+similarity,1006268,Belongs to the Nudix hydrolase family.,org.intermine.model.bio.Comment
+similarity,1006308,Belongs to the ribosomal protein S8P family.,org.intermine.model.bio.Comment
+similarity,1006322,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1006357,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1006395,Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family.,org.intermine.model.bio.Comment
+similarity,1006483,Belongs to the ATPase alpha/beta chains family.,org.intermine.model.bio.Comment
+similarity,1006507,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+catalytic activity,1006645,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1006646,Belongs to the RNA polymerase beta chain family.,org.intermine.model.bio.Comment
+similarity,1006663,Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family.,org.intermine.model.bio.Comment
+similarity,1006746,Belongs to the ribosomal protein S8P family.,org.intermine.model.bio.Comment
+similarity,1006841,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+catalytic activity,1006882,CTP + phosphatidate = diphosphate + CDP-diacylglycerol.,org.intermine.model.bio.Comment
+pathway,1006883,Phospholipid metabolism; CDP-diacylglycerol biosynthesis; CDP-diacylglycerol from sn-glycerol 3-phosphate: step 3/3.,org.intermine.model.bio.Comment
+similarity,1006884,Belongs to the CDS family.,org.intermine.model.bio.Comment
+similarity,1006929,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1007004,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1007010,Belongs to the histone H2A family.,org.intermine.model.bio.Comment
+similarity,1007024,Belongs to the small GTPase superfamily.,org.intermine.model.bio.Comment
+similarity,1007025,Belongs to the small GTPase superfamily. Arf family.,org.intermine.model.bio.Comment
+similarity,1007074,Contains 5 C2 domains.,org.intermine.model.bio.Comment
+similarity,1007093,Belongs to the ribosomal protein S19P family.,org.intermine.model.bio.Comment
+similarity,1007114,Contains 1 helicase ATP-binding domain.,org.intermine.model.bio.Comment
+similarity,1007115,Contains 1 helicase C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1007137,Belongs to the peptidase M16 family.,org.intermine.model.bio.Comment
+similarity,1007169,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1007180,Belongs to the ATPase alpha/beta chains family.,org.intermine.model.bio.Comment
+similarity,1007186,Belongs to the IPP transferase family.,org.intermine.model.bio.Comment
+similarity,1007204,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1007437,Contains 1 KH domain.,org.intermine.model.bio.Comment
+catalytic activity,1007464,Protein N(6)-(dihydrolipoyl)lysine + NAD(+) = protein N(6)-(lipoyl)lysine + NADH.,org.intermine.model.bio.Comment
+similarity,1007465,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.,org.intermine.model.bio.Comment
+similarity,1007503,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1007530,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1007538,Contains 1 ACB (acyl-CoA-binding) domain.,org.intermine.model.bio.Comment
+similarity,1007572,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1007607,Belongs to the glycosyl hydrolase 18 family.,org.intermine.model.bio.Comment
+similarity,1007716,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+catalytic activity,1007731,Deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1).,org.intermine.model.bio.Comment
+similarity,1007732,Belongs to the DNA polymerase type-B family.,org.intermine.model.bio.Comment
+similarity,1007759,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1007781,Contains 1 MHD (mu homology) domain.,org.intermine.model.bio.Comment
+similarity,1007920,Belongs to the 14-3-3 family.,org.intermine.model.bio.Comment
+similarity,1008021,Belongs to the nucleosome assembly protein (NAP) family.,org.intermine.model.bio.Comment
+catalytic activity,1008091,Deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1).,org.intermine.model.bio.Comment
+similarity,1008092,Belongs to the DNA polymerase type-B family.,org.intermine.model.bio.Comment
+similarity,1008097,Belongs to the RNA methyltransferase trmH family.,org.intermine.model.bio.Comment
+similarity,1008112,Belongs to the ribosomal protein L15e family.,org.intermine.model.bio.Comment
+similarity,1008255,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1008265,Belongs to the ribosomal protein L17P family.,org.intermine.model.bio.Comment
+similarity,1008302,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1008382,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1008417,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+catalytic activity,1008471,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1008472,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1008488,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1008700,Belongs to the ribosomal protein L19e family.,org.intermine.model.bio.Comment
+similarity,1008712,Contains 1 HIT domain.,org.intermine.model.bio.Comment
+catalytic activity,1008821,2 5-aminolevulinate = porphobilinogen + 2 H(2)O.,org.intermine.model.bio.Comment
+similarity,1008822,Belongs to the ALADH family.,org.intermine.model.bio.Comment
+similarity,1008895,Contains 1 SET domain.,org.intermine.model.bio.Comment
+similarity,1008935,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1008977,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1008983,Belongs to the histone H3 family.,org.intermine.model.bio.Comment
+similarity,1009010,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1009036,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+catalytic activity,1009096,Deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1).,org.intermine.model.bio.Comment
+similarity,1009097,Belongs to the DNA polymerase type-B family.,org.intermine.model.bio.Comment
+similarity,1009119,Belongs to the pseudouridine synthase rluA family.,org.intermine.model.bio.Comment
+catalytic activity,1009137,ATP + H(2)O + phospholipid(In) = ADP + phosphate + phospholipid(Out).,org.intermine.model.bio.Comment
+similarity,1009163,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1009164,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1009177,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1009190,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+catalytic activity,1009276,ATP + L-methionine + H(2)O = phosphate + diphosphate + S-adenosyl-L-methionine.,org.intermine.model.bio.Comment
+pathway,1009277,Activated methyl cycle.,org.intermine.model.bio.Comment
+similarity,1009278,Belongs to the AdoMet synthetase family.,org.intermine.model.bio.Comment
+similarity,1009398,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1009399,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1009541,Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.,org.intermine.model.bio.Comment
+similarity,1009550,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+catalytic activity,1009600,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1009601,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1009602,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1009613,Belongs to the RNA methyltransferase trmH family.,org.intermine.model.bio.Comment
+similarity,1009654,Belongs to the Glu/Leu/Phe/Val dehydrogenases family.,org.intermine.model.bio.Comment
+catalytic activity,1009736,ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out).,org.intermine.model.bio.Comment
+similarity,1009737,Belongs to the V-ATPase proteolipid subunit family.,org.intermine.model.bio.Comment
+catalytic activity,1009766,"Release of N-terminal amino acids, preferentially methionine, from peptides and arylamides.",org.intermine.model.bio.Comment
+similarity,1009767,Belongs to the peptidase M24A family.,org.intermine.model.bio.Comment
+similarity,1009782,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1009794,Contains 1 HIT domain.,org.intermine.model.bio.Comment
+similarity,1009817,Belongs to the FAD-dependent glycerol-3-phosphate dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1009848,Belongs to the syntaxin family.,org.intermine.model.bio.Comment
+similarity,1009849,Contains 1 t-SNARE coiled-coil homology domain.,org.intermine.model.bio.Comment
+similarity,1009886,Contains 1 myosin head-like domain.,org.intermine.model.bio.Comment
+similarity,1009891,Contains 1 longin domain.,org.intermine.model.bio.Comment
+similarity,1009892,Contains 1 v-SNARE coiled-coil homology domain.,org.intermine.model.bio.Comment
+catalytic activity,1009897,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1009898,Belongs to the RNA polymerase beta chain family.,org.intermine.model.bio.Comment
+similarity,1009917,Belongs to the ribosomal protein S2P family.,org.intermine.model.bio.Comment
+similarity,1009953,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1009979,Belongs to the cation transport ATPase (P-type) family.,org.intermine.model.bio.Comment
+catalytic activity,1010079,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1010080,Belongs to the RNA polymerase beta' chain family.,org.intermine.model.bio.Comment
+similarity,1010095,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1010200,Belongs to the peptidase M16 family.,org.intermine.model.bio.Comment
+similarity,1010223,Belongs to the groES chaperonin family.,org.intermine.model.bio.Comment
+similarity,1010253,Belongs to the groES chaperonin family.,org.intermine.model.bio.Comment
+catalytic activity,1010298,Phosphate + oxaloacetate = H(2)O + phosphoenolpyruvate + CO(2).,org.intermine.model.bio.Comment
+pathway,1010299,Tricarboxylic acid cycle.,org.intermine.model.bio.Comment
+similarity,1010300,Belongs to the PEPCase type 1 family.,org.intermine.model.bio.Comment
+similarity,1010351,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1010425,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1010452,Belongs to the RNA methyltransferase trmH family.,org.intermine.model.bio.Comment
+similarity,1010479,Contains 1 ADF-H domain.,org.intermine.model.bio.Comment
+similarity,1010531,Belongs to the Glu/Leu/Phe/Val dehydrogenases family.,org.intermine.model.bio.Comment
+similarity,1010604,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1010622,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1010636,Contains 1 importin N-terminal domain.,org.intermine.model.bio.Comment
+similarity,1010668,Belongs to the ribosomal protein L13P family.,org.intermine.model.bio.Comment
+similarity,1010673,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1010683,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1010701,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+catalytic activity,1010798,2 superoxide + 2 H(+) = O(2) + H(2)O(2).,org.intermine.model.bio.Comment
+similarity,1010799,Belongs to the iron/manganese superoxide dismutase family.,org.intermine.model.bio.Comment
+similarity,1010850,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1010888,Belongs to the CDP-alcohol phosphatidyltransferase class-I family.,org.intermine.model.bio.Comment
+catalytic activity,1010984,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1010985,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1011044,Belongs to the eIF-1A family.,org.intermine.model.bio.Comment
+similarity,1011045,Contains 1 S1-like domain.,org.intermine.model.bio.Comment
+similarity,1011071,Belongs to the EIF-2B alpha/beta/delta subunits family.,org.intermine.model.bio.Comment
+similarity,1011121,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1011230,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+catalytic activity,1011242,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1011243,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1011244,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+catalytic activity,1011308,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1011309,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1011310,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1011330,Belongs to the ribosomal protein L22P family.,org.intermine.model.bio.Comment
+similarity,1011374,Contains 1 importin N-terminal domain.,org.intermine.model.bio.Comment
+similarity,1011413,Belongs to the eukaryotic type I topoisomerase family.,org.intermine.model.bio.Comment
+catalytic activity,1011433,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1011434,Belongs to the peptidase T1A family.,org.intermine.model.bio.Comment
+similarity,1011469,Contains 1 HECT (E6AP-type E3 ubiquitin-protein ligase) domain.,org.intermine.model.bio.Comment
+similarity,1011505,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1011543,Belongs to the CGI121/TPRKB family.,org.intermine.model.bio.Comment
+similarity,1011548,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1011560,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1011580,Belongs to the ATCase/OTCase family.,org.intermine.model.bio.Comment
+similarity,1011695,Contains 1 CTLH domain.,org.intermine.model.bio.Comment
+similarity,1011696,Contains 1 LisH domain.,org.intermine.model.bio.Comment
+similarity,1011767,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1011826,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1011827,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1011859,Contains 1 S1-like domain.,org.intermine.model.bio.Comment
+similarity,1011923,Contains 1 MPN (JAB/Mov34) domain.,org.intermine.model.bio.Comment
+similarity,1011932,Contains 1 Arf-GAP domain.,org.intermine.model.bio.Comment
+similarity,1012112,Belongs to the era/trmE GTP-binding protein family.,org.intermine.model.bio.Comment
+catalytic activity,1012175,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1012176,Belongs to the peptidase T1B family.,org.intermine.model.bio.Comment
+similarity,1012181,Contains 1 JmjC domain.,org.intermine.model.bio.Comment
+similarity,1012196,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1012360,Belongs to the DNA mismatch repair mutS family.,org.intermine.model.bio.Comment
+similarity,1012372,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1012382,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1012507,Contains 1 MPN (JAB/Mov34) domain.,org.intermine.model.bio.Comment
+similarity,1012592,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+catalytic activity,1012605,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+similarity,1012606,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1012701,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1012728,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1012823,Contains 1 MATH domain.,org.intermine.model.bio.Comment
+similarity,1012915,Belongs to the small GTPase superfamily.,org.intermine.model.bio.Comment
+similarity,1012916,Belongs to the small GTPase superfamily. Arf family.,org.intermine.model.bio.Comment
+catalytic activity,1012938,ATP + H(2)O + phospholipid(In) = ADP + phosphate + phospholipid(Out).,org.intermine.model.bio.Comment
+similarity,1013005,Contains 1 t-SNARE coiled-coil homology domain.,org.intermine.model.bio.Comment
+similarity,1013040,Belongs to the purine/pyrimidine phosphoribosyltransferase family.,org.intermine.model.bio.Comment
+similarity,1013054,Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1013076,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1013118,Belongs to the nucleosome assembly protein (NAP) family.,org.intermine.model.bio.Comment
+catalytic activity,1013123,ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out).,org.intermine.model.bio.Comment
+similarity,1013124,Belongs to the V-ATPase proteolipid subunit family.,org.intermine.model.bio.Comment
+similarity,1013154,Belongs to the spermidine/spermine synthase family.,org.intermine.model.bio.Comment
+similarity,1013192,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1013221,Contains 1 PABC domain.,org.intermine.model.bio.Comment
+similarity,1013306,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1013336,Contains 1 LisH domain.,org.intermine.model.bio.Comment
+catalytic activity,1013365,ATP + L-lysine + tRNA(Lys) = AMP + diphosphate + L-lysyl-tRNA(Lys).,org.intermine.model.bio.Comment
+similarity,1013366,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1013433,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1013434,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1013445,Contains 2 HTH myb-type DNA-binding domains.,org.intermine.model.bio.Comment
+function,1013486,"Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",org.intermine.model.bio.Comment
+subunit,1013487,"The nucleosome is a histone octamer containing two molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4 heterotetramer and two H2A-H2B heterodimers. The octamer wraps approximately 147 bp of DNA.",org.intermine.model.bio.Comment
+similarity,1013488,Belongs to the histone H2B family.,org.intermine.model.bio.Comment
+similarity,1013562,Belongs to the small GTPase superfamily. Ran family.,org.intermine.model.bio.Comment
+similarity,1013605,Contains 1 LisH domain.,org.intermine.model.bio.Comment
+catalytic activity,1013679,S-adenosyl-L-methionine + histone L-lysine = S-adenosyl-L-homocysteine + histone N(6)-methyl-L-lysine.,org.intermine.model.bio.Comment
+similarity,1013680,Contains 1 SET domain.,org.intermine.model.bio.Comment
+similarity,1013681,Contains 1 post-SET domain.,org.intermine.model.bio.Comment
+similarity,1013732,Contains 1 SUEL-type lectin domain.,org.intermine.model.bio.Comment
+similarity,1013772,Contains 1 ACB (acyl-CoA-binding) domain.,org.intermine.model.bio.Comment
+similarity,1013820,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1013830,Belongs to the TBP family.,org.intermine.model.bio.Comment
+similarity,1013854,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1013950,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1013963,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1014003,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1014096,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1014117,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+catalytic activity,1014140,S-adenosyl-L-methionine + 2-(3-carboxy-3-aminopropyl)-L-histidine = S-adenosyl-L-homocysteine + 2-(3-carboxy-3-(methylammonio)propyl)-L-histidine.,org.intermine.model.bio.Comment
+pathway,1014141,Protein modification; diphthamide biosynthesis.,org.intermine.model.bio.Comment
+similarity,1014142,Belongs to the diphthine synthase family.,org.intermine.model.bio.Comment
+similarity,1014283,Belongs to the ribosomal protein L3P family.,org.intermine.model.bio.Comment
+similarity,1014342,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1014343,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1014348,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1014363,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1014439,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+catalytic activity,1014487,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+similarity,1014488,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1014489,Contains 2 cyclic nucleotide-binding domains.,org.intermine.model.bio.Comment
+similarity,1014619,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1014712,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1014729,Contains 1 FH2 (formin homology 2) domain.,org.intermine.model.bio.Comment
+similarity,1014735,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1014736,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1014765,Belongs to the heat shock protein 70 family.,org.intermine.model.bio.Comment
+similarity,1014774,Contains 1 LisH domain.,org.intermine.model.bio.Comment
+similarity,1014784,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1014827,Belongs to the ribosomal protein S8e family.,org.intermine.model.bio.Comment
+similarity,1014887,Belongs to the gcvT family.,org.intermine.model.bio.Comment
+catalytic activity,1014900,Protoheme + 2 H(+) = protoporphyrin + Fe(2+).,org.intermine.model.bio.Comment
+pathway,1014901,Porphyrin metabolism; protoheme biosynthesis; protoheme from protoporphyrin-IX: step 1/1.,org.intermine.model.bio.Comment
+similarity,1014902,Belongs to the ferrochelatase family.,org.intermine.model.bio.Comment
+similarity,1014908,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1015125,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1015198,Belongs to the chaperonin (HSP60) family.,org.intermine.model.bio.Comment
+similarity,1015424,Belongs to the cytochrome c family.,org.intermine.model.bio.Comment
+similarity,1015449,Belongs to the MIP/aquaporin (TC 1.A.8) family.,org.intermine.model.bio.Comment
+similarity,1015520,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1015543,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1015552,Belongs to the cation transport ATPase (P-type) family.,org.intermine.model.bio.Comment
+catalytic activity,1015604,2'-deoxyribonucleoside diphosphate + thioredoxin disulfide + H(2)O = ribonucleoside diphosphate + thioredoxin.,org.intermine.model.bio.Comment
+pathway,1015605,Genetic information processing; DNA replication.,org.intermine.model.bio.Comment
+similarity,1015606,Belongs to the ribonucleoside diphosphate reductase large chain family.,org.intermine.model.bio.Comment
+similarity,1015657,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1015664,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+catalytic activity,1015681,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1015682,Belongs to the peptidase T1B family.,org.intermine.model.bio.Comment
+similarity,1015768,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+catalytic activity,1015831,S-adenosyl-L-methionine + histone L-lysine = S-adenosyl-L-homocysteine + histone N(6)-methyl-L-lysine.,org.intermine.model.bio.Comment
+similarity,1015832,Contains 1 SET domain.,org.intermine.model.bio.Comment
+similarity,1015833,Contains 1 post-SET domain.,org.intermine.model.bio.Comment
+similarity,1015834,Contains 1 pre-SET domain.,org.intermine.model.bio.Comment
+catalytic activity,1015967,ATP + nucleoside diphosphate = ADP + nucleoside triphosphate.,org.intermine.model.bio.Comment
+similarity,1015968,Belongs to the NDK family.,org.intermine.model.bio.Comment
+similarity,1016070,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1016098,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1016103,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1016114,Belongs to the dynamin family.,org.intermine.model.bio.Comment
+similarity,1016115,Contains 1 GED domain.,org.intermine.model.bio.Comment
+similarity,1016169,Belongs to the TCP-1 chaperonin family.,org.intermine.model.bio.Comment
+similarity,1016222,Belongs to the FGGY kinase family.,org.intermine.model.bio.Comment
+similarity,1016242,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1016323,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1016415,Belongs to the thiolase family.,org.intermine.model.bio.Comment
+catalytic activity,1016527,"D-glucose 6-phosphate + NADP(+) = D-glucono-1,5-lactone 6-phosphate + NADPH.",org.intermine.model.bio.Comment
+pathway,1016528,Carbohydrate degradation; pentose phosphate pathway.,org.intermine.model.bio.Comment
+similarity,1016529,Belongs to the glucose-6-phosphate dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1016560,Contains 4 KH domains.,org.intermine.model.bio.Comment
+similarity,1016603,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+similarity,1016625,Contains 1 PCI domain.,org.intermine.model.bio.Comment
+similarity,1016691,Belongs to the chaperonin (HSP60) family.,org.intermine.model.bio.Comment
+similarity,1016713,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1016722,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1016739,Contains 1 helicase ATP-binding domain.,org.intermine.model.bio.Comment
+similarity,1016740,Contains 1 helicase C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1016914,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1017047,Contains 1 SET domain.,org.intermine.model.bio.Comment
+similarity,1017102,Belongs to the DNA polymerase type-A family.,org.intermine.model.bio.Comment
+similarity,1017146,Belongs to the peptidase A1 family.,org.intermine.model.bio.Comment
+similarity,1017215,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1017240,Belongs to the histone H3 family.,org.intermine.model.bio.Comment
+similarity,1017266,Belongs to the GHMP kinase family.,org.intermine.model.bio.Comment
+catalytic activity,1017271,"ATP-dependent breakage, passage and rejoining of double-stranded DNA.",org.intermine.model.bio.Comment
+similarity,1017272,Belongs to the type II topoisomerase family.,org.intermine.model.bio.Comment
+similarity,1017293,Contains 1 PDZ (DHR) domain.,org.intermine.model.bio.Comment
+similarity,1017399,Belongs to the glutathione peroxidase family.,org.intermine.model.bio.Comment
+catalytic activity,1017430,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1017431,Belongs to the RNA polymerase beta' chain family.,org.intermine.model.bio.Comment
+similarity,1017483,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1017516,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+catalytic activity,1017660,Endonucleolytic cleavage to 5'-phosphomonoester.,org.intermine.model.bio.Comment
+similarity,1017661,Belongs to the RNase HII family.,org.intermine.model.bio.Comment
+similarity,1017692,Belongs to the ribosomal protein L23P family.,org.intermine.model.bio.Comment
+similarity,1017731,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1017807,Belongs to the ribosomal protein L36e family.,org.intermine.model.bio.Comment
+similarity,1017906,Belongs to the peptidase M16 family.,org.intermine.model.bio.Comment
+similarity,1017913,Belongs to the short-chain dehydrogenases/reductases (SDR) family.,org.intermine.model.bio.Comment
+similarity,1017968,Contains 1 ubiquitin-like domain.,org.intermine.model.bio.Comment
+similarity,1018049,Belongs to the cytochrome c oxidase subunit 2 family.,org.intermine.model.bio.Comment
+similarity,1018153,Belongs to the PCNA family.,org.intermine.model.bio.Comment
+similarity,1018185,Contains 1 PI3K/PI4K domain.,org.intermine.model.bio.Comment
+similarity,1018213,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1018214,Contains 1 SAM (sterile alpha motif) domain.,org.intermine.model.bio.Comment
+similarity,1018215,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1018264,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1018285,Contains 1 HECT (E6AP-type E3 ubiquitin-protein ligase) domain.,org.intermine.model.bio.Comment
+similarity,1018297,Contains 1 MPN (JAB/Mov34) domain.,org.intermine.model.bio.Comment
+similarity,1018365,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1018393,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1018489,Belongs to the adenylate kinase family.,org.intermine.model.bio.Comment
+similarity,1018598,Belongs to the isocitrate and isopropylmalate dehydrogenases family.,org.intermine.model.bio.Comment
+similarity,1018603,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1018629,Belongs to the succinate/malate CoA ligase alpha subunit family.,org.intermine.model.bio.Comment
+similarity,1018821,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1018826,Contains 1 acyl carrier domain.,org.intermine.model.bio.Comment
+similarity,1018851,Belongs to the ribosomal protein S24e family.,org.intermine.model.bio.Comment
+catalytic activity,1018975,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1018976,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1018994,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1019023,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1019114,Belongs to the peptidase S26 family.,org.intermine.model.bio.Comment
+similarity,1019229,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+catalytic activity,1019243,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1019244,Belongs to the phage and mitochondrial RNA polymerase family.,org.intermine.model.bio.Comment
+similarity,1019266,Contains 1 F5/8 type C domain.,org.intermine.model.bio.Comment
+similarity,1019290,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1019291,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1019333,Belongs to the small GTPase superfamily.,org.intermine.model.bio.Comment
+similarity,1019334,Belongs to the small GTPase superfamily. SAR1 family.,org.intermine.model.bio.Comment
+catalytic activity,1019454,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1019455,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+catalytic activity,1019460,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1019461,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1019462,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1019535,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1019536,Contains 3 Solcar repeats.,org.intermine.model.bio.Comment
+similarity,1019619,Belongs to the ribosomal protein L13e family.,org.intermine.model.bio.Comment
+similarity,1019640,Belongs to the TCP-1 chaperonin family.,org.intermine.model.bio.Comment
+similarity,1019732,Belongs to the heat shock protein 70 family.,org.intermine.model.bio.Comment
+similarity,1019781,Contains 1 UBX domain.,org.intermine.model.bio.Comment
+similarity,1019786,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1019787,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1019834,Belongs to the ribosomal protein L27e family.,org.intermine.model.bio.Comment
+similarity,1019947,Belongs to the SHMT family.,org.intermine.model.bio.Comment
+similarity,1019972,Contains 1 PLAT domain.,org.intermine.model.bio.Comment
+similarity,1020014,Belongs to the ribosomal protein L3P family.,org.intermine.model.bio.Comment
+similarity,1020026,Belongs to the NAD-dependent glycerol-3-phosphate dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1020105,Belongs to the ribosomal protein S3Ae family.,org.intermine.model.bio.Comment
+similarity,1020199,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1020251,Belongs to the cytochrome b5 family.,org.intermine.model.bio.Comment
+similarity,1020252,Contains 1 cytochrome b5 heme-binding domain.,org.intermine.model.bio.Comment
+similarity,1020290,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+catalytic activity,1020295,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1020296,Belongs to the peptidase T1A family.,org.intermine.model.bio.Comment
+similarity,1020362,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1020363,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1020373,Belongs to the cullin family.,org.intermine.model.bio.Comment
+similarity,1020392,Belongs to the fatty acid desaturase family.,org.intermine.model.bio.Comment
+similarity,1020451,Belongs to the tubulin family.,org.intermine.model.bio.Comment
+catalytic activity,1020477,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+similarity,1020478,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1020479,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1020546,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+catalytic activity,1020565,"GTP + IMP + L-aspartate = GDP + phosphate + N(6)-(1,2-dicarboxyethyl)-AMP.",org.intermine.model.bio.Comment
+pathway,1020566,Purine metabolism; AMP biosynthesis via de novo pathway; AMP from IMP: step 1/2.,org.intermine.model.bio.Comment
+similarity,1020567,Belongs to the adenylosuccinate synthetase family.,org.intermine.model.bio.Comment
+similarity,1020622,Contains 3 KH domains.,org.intermine.model.bio.Comment
+similarity,1020692,Belongs to the tRNA nucleotidyltransferase/poly(A) polymerase family.,org.intermine.model.bio.Comment
+similarity,1020799,Belongs to the secY/SEC61-alpha family.,org.intermine.model.bio.Comment
+similarity,1020806,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1020855,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1020894,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1020934,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1020970,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1021040,Belongs to the ribosomal protein L5P family.,org.intermine.model.bio.Comment
+catalytic activity,1021104,ATP + L-lysine + tRNA(Lys) = AMP + diphosphate + L-lysyl-tRNA(Lys).,org.intermine.model.bio.Comment
+similarity,1021105,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1021200,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1021256,Belongs to the arginase family.,org.intermine.model.bio.Comment
+similarity,1021280,Belongs to the C5-methyltransferase family.,org.intermine.model.bio.Comment
+similarity,1021298,Belongs to the tubulin family.,org.intermine.model.bio.Comment
+similarity,1021336,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+function,1021566,"Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling.",org.intermine.model.bio.Comment
+subunit,1021567,"The nucleosome is a histone octamer containing two molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4 heterotetramer and two H2A-H2B heterodimers. The octamer wraps approximately 147 bp of DNA.",org.intermine.model.bio.Comment
+similarity,1021568,Belongs to the histone H2B family.,org.intermine.model.bio.Comment
+similarity,1021773,Belongs to the LDH/MDH superfamily.,org.intermine.model.bio.Comment
+similarity,1021840,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1021855,Belongs to the adenylate kinase family.,org.intermine.model.bio.Comment
+similarity,1021960,Contains 1 importin N-terminal domain.,org.intermine.model.bio.Comment
+catalytic activity,1021989,Ubiquitin C-terminal thioester + H(2)O = ubiquitin + a thiol.,org.intermine.model.bio.Comment
+similarity,1021990,Belongs to the peptidase C19 family.,org.intermine.model.bio.Comment
+similarity,1022116,Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family.,org.intermine.model.bio.Comment
+similarity,1022125,Belongs to the ERD2 family.,org.intermine.model.bio.Comment
+similarity,1022130,Contains 1 MHD (mu homology) domain.,org.intermine.model.bio.Comment
+similarity,1022165,Belongs to the peptidase S14 family.,org.intermine.model.bio.Comment
+similarity,1022204,Belongs to the ribosomal protein L35P family.,org.intermine.model.bio.Comment
+similarity,1022218,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1022219,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1022311,Belongs to the histone H2A family.,org.intermine.model.bio.Comment
+catalytic activity,1022341,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1022342,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1022343,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1022410,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1022483,Contains 1 ACB (acyl-CoA-binding) domain.,org.intermine.model.bio.Comment
+similarity,1022492,Contains 1 helicase ATP-binding domain.,org.intermine.model.bio.Comment
+similarity,1022493,Contains 1 helicase C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1022506,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1022516,Contains 1 SAM (sterile alpha motif) domain.,org.intermine.model.bio.Comment
+similarity,1022517,Contains 1 protein kinase domain.,org.intermine.model.bio.Comment
+similarity,1022564,Belongs to the 2-oxoacid dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1022565,Contains 1 lipoyl-binding domain.,org.intermine.model.bio.Comment
+similarity,1022645,Belongs to the small GTPase superfamily.,org.intermine.model.bio.Comment
+similarity,1022646,Belongs to the small GTPase superfamily. Arf family.,org.intermine.model.bio.Comment
+catalytic activity,1022777,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1022778,Belongs to the peptidase T1B family.,org.intermine.model.bio.Comment
+similarity,1022806,Belongs to the ribosomal protein S17P family.,org.intermine.model.bio.Comment
+catalytic activity,1022839,ATP + a protein = ADP + a phosphoprotein.,org.intermine.model.bio.Comment
+similarity,1022840,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1022873,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1022874,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1022981,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1023089,Belongs to the NDK family.,org.intermine.model.bio.Comment
+similarity,1023226,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1023235,Belongs to the ATG3 family.,org.intermine.model.bio.Comment
+similarity,1023265,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.,org.intermine.model.bio.Comment
+similarity,1023357,Belongs to the EIF-2B alpha/beta/delta subunits family.,org.intermine.model.bio.Comment
+similarity,1023494,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1023615,Belongs to the tubulin family.,org.intermine.model.bio.Comment
+similarity,1023620,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1023688,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1023698,Contains 5 C2 domains.,org.intermine.model.bio.Comment
+similarity,1023704,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1023725,Belongs to the CDP-alcohol phosphatidyltransferase class-I family.,org.intermine.model.bio.Comment
+similarity,1023743,Belongs to the small GTPase superfamily.Rab family.,org.intermine.model.bio.Comment
+similarity,1023754,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1023854,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1023864,Belongs to the TPP enzyme family.,org.intermine.model.bio.Comment
+similarity,1023983,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1024038,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+catalytic activity,1024086,D-glucose 6-phosphate = D-fructose 6-phosphate.,org.intermine.model.bio.Comment
+pathway,1024087,Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-phosphate and glycerone phosphate from D-glucose: step 2.,org.intermine.model.bio.Comment
+similarity,1024088,Belongs to the GPI family.,org.intermine.model.bio.Comment
+catalytic activity,1024109,Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).,org.intermine.model.bio.Comment
+similarity,1024110,Belongs to the RNA polymerase beta' chain family.,org.intermine.model.bio.Comment
+similarity,1024116,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1024126,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1024140,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1024153,Belongs to the peptidase M16 family.,org.intermine.model.bio.Comment
+similarity,1024196,Belongs to the heat shock protein 70 family.,org.intermine.model.bio.Comment
+similarity,1024210,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1024243,Belongs to the peptidase A1 family.,org.intermine.model.bio.Comment
+similarity,1024309,Belongs to the protein disulfide isomerase family.,org.intermine.model.bio.Comment
+similarity,1024310,Contains 2 thioredoxin domains.,org.intermine.model.bio.Comment
+similarity,1024315,Belongs to the small heat shock protein (HSP20) family.,org.intermine.model.bio.Comment
+similarity,1024324,Contains 1 PH domain.,org.intermine.model.bio.Comment
+similarity,1024368,Contains 1 MHD (mu homology) domain.,org.intermine.model.bio.Comment
+similarity,1024393,Contains 1 PCI domain.,org.intermine.model.bio.Comment
+similarity,1024412,Belongs to the DNA mismatch repair mutS family.,org.intermine.model.bio.Comment
+similarity,1024417,Belongs to the kinesin-like protein family.,org.intermine.model.bio.Comment
+similarity,1024418,Contains 1 kinesin-motor domain.,org.intermine.model.bio.Comment
+similarity,1024514,Contains 1 acyl carrier domain.,org.intermine.model.bio.Comment
+similarity,1024631,Belongs to the peptidase S14 family.,org.intermine.model.bio.Comment
+similarity,1024651,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1024735,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1024750,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1024768,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+catalytic activity,1024844,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1024845,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1024927,Belongs to the recA family.,org.intermine.model.bio.Comment
+similarity,1024936,Belongs to the cytochrome c oxidase subunit 2 family.,org.intermine.model.bio.Comment
+similarity,1024945,Belongs to the small heat shock protein (HSP20) family.,org.intermine.model.bio.Comment
+catalytic activity,1025073,Deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1).,org.intermine.model.bio.Comment
+similarity,1025074,Belongs to the DNA polymerase type-B family.,org.intermine.model.bio.Comment
+similarity,1025120,Belongs to the uracil-DNA glycosylase family.,org.intermine.model.bio.Comment
+similarity,1025313,Belongs to the ribosomal protein L24P family.,org.intermine.model.bio.Comment
+similarity,1025325,Belongs to the LDH/MDH superfamily.,org.intermine.model.bio.Comment
+similarity,1025334,Contains 1 OTU domain.,org.intermine.model.bio.Comment
+similarity,1025343,Belongs to the bolA/yrbA family.,org.intermine.model.bio.Comment
+similarity,1025449,Belongs to the ABC transporter family.,org.intermine.model.bio.Comment
+similarity,1025483,Belongs to the ubiquitin-conjugating enzyme family.,org.intermine.model.bio.Comment
+similarity,1025530,Contains 1 OTU domain.,org.intermine.model.bio.Comment
+similarity,1025608,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1025624,Belongs to the cytochrome b5 family.,org.intermine.model.bio.Comment
+similarity,1025625,Contains 1 cytochrome b5 heme-binding domain.,org.intermine.model.bio.Comment
+similarity,1025656,Belongs to the ribosomal protein S27e family.,org.intermine.model.bio.Comment
+catalytic activity,1025692,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1025693,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1025755,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+catalytic activity,1025770,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1025771,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1025772,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1025843,Contains 1 t-SNARE coiled-coil homology domain.,org.intermine.model.bio.Comment
+similarity,1025848,Belongs to the short-chain dehydrogenases/reductases (SDR) family.,org.intermine.model.bio.Comment
+similarity,1025870,Belongs to the short-chain dehydrogenases/reductases (SDR) family.,org.intermine.model.bio.Comment
+catalytic activity,1025891,ATP + H(2)O + phospholipid(In) = ADP + phosphate + phospholipid(Out).,org.intermine.model.bio.Comment
+similarity,1025909,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1025921,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1025967,Contains 1 ubiquitin-like domain.,org.intermine.model.bio.Comment
+similarity,1026000,Belongs to the ATP-dependent AMP-binding enzyme family.,org.intermine.model.bio.Comment
+catalytic activity,1026010,5-O-(1-carboxyvinyl)-3-phosphoshikimate = chorismate + phosphate.,org.intermine.model.bio.Comment
+pathway,1026011,Metabolic intermediate biosynthesis; chorismate biosynthesis; chorismate from D-erythrose 4-phosphate and PEP: step 7/7.,org.intermine.model.bio.Comment
+similarity,1026012,Belongs to the chorismate synthase family.,org.intermine.model.bio.Comment
+similarity,1026065,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1026095,Contains 1 ACB (acyl-CoA-binding) domain.,org.intermine.model.bio.Comment
+similarity,1026164,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1026191,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1026347,Belongs to the DNA mismatch repair mutS family.,org.intermine.model.bio.Comment
+catalytic activity,1026377,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1026378,Belongs to the peptidase T1B family.,org.intermine.model.bio.Comment
+catalytic activity,1026462,Orotidine 5'-phosphate = UMP + CO(2).,org.intermine.model.bio.Comment
+pathway,1026463,Pyrimidine metabolism; UMP biosynthesis via de novo pathway; UMP from HCO(3)(-): step 6/6.,org.intermine.model.bio.Comment
+similarity,1026464,Belongs to the OMP decarboxylase family.,org.intermine.model.bio.Comment
+similarity,1026527,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1026626,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1026690,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1026691,Contains 1 PH domain.,org.intermine.model.bio.Comment
+similarity,1026710,Contains 1 PCI domain.,org.intermine.model.bio.Comment
+similarity,1026744,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1026760,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1026797,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1026833,Belongs to the ATPase gamma chain family.,org.intermine.model.bio.Comment
+similarity,1026873,Belongs to the ribosomal protein L20P family.,org.intermine.model.bio.Comment
+similarity,1027001,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1027024,Belongs to the peptidase M3 family.,org.intermine.model.bio.Comment
+catalytic activity,1027050,"Release of N-terminal amino acids, preferentially methionine, from peptides and arylamides.",org.intermine.model.bio.Comment
+similarity,1027051,Belongs to the peptidase M24C family.,org.intermine.model.bio.Comment
+similarity,1027096,Belongs to the glutamine synthetase family.,org.intermine.model.bio.Comment
+pathway,1027122,Protein modification; protein ubiquitination.,org.intermine.model.bio.Comment
+similarity,1027123,Belongs to the ubiquitin-activating E1 family.,org.intermine.model.bio.Comment
+similarity,1027142,Belongs to the citrate synthase family.,org.intermine.model.bio.Comment
+similarity,1027299,Belongs to the Orn/Lys/Arg decarboxylase class-II family.,org.intermine.model.bio.Comment
+similarity,1027315,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1027384,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1027396,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1027489,Belongs to the ribosomal protein L15P family.,org.intermine.model.bio.Comment
+similarity,1027511,Belongs to the ribosomal protein L3P family.,org.intermine.model.bio.Comment
+similarity,1027606,Contains 1 helicase ATP-binding domain.,org.intermine.model.bio.Comment
+similarity,1027607,Contains 1 helicase C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1027617,Belongs to the DEAD box helicase family.,org.intermine.model.bio.Comment
+similarity,1027693,Belongs to the DTD family.,org.intermine.model.bio.Comment
+catalytic activity,1027745,ATP + pyruvate = ADP + phosphoenolpyruvate.,org.intermine.model.bio.Comment
+pathway,1027746,Carbohydrate degradation; glycolysis; pyruvate from D-glyceraldehyde 3-phosphate: step 5/5.,org.intermine.model.bio.Comment
+similarity,1027747,Belongs to the pyruvate kinase family.,org.intermine.model.bio.Comment
+similarity,1027819,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1027849,Belongs to the phosphoglycerate mutase family.,org.intermine.model.bio.Comment
+similarity,1027915,Contains 1 PI3K/PI4K domain.,org.intermine.model.bio.Comment
+catalytic activity,1027933,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1027934,Belongs to the cyclophilin-type PPIase family.,org.intermine.model.bio.Comment
+similarity,1027935,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1028004,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1028065,Contains 1 longin domain.,org.intermine.model.bio.Comment
+similarity,1028066,Contains 1 v-SNARE coiled-coil homology domain.,org.intermine.model.bio.Comment
+similarity,1028087,Belongs to the 2-oxoacid dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1028088,Contains 1 lipoyl-binding domain.,org.intermine.model.bio.Comment
+similarity,1028105,Belongs to the ribosomal protein S5P family.,org.intermine.model.bio.Comment
+similarity,1028106,Contains 1 S5 DRBM domain.,org.intermine.model.bio.Comment
+similarity,1028125,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1028134,Belongs to the peptidase A1 family.,org.intermine.model.bio.Comment
+similarity,1028140,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+catalytic activity,1028176,"Release of N-terminal amino acids, preferentially methionine, from peptides and arylamides.",org.intermine.model.bio.Comment
+similarity,1028177,Belongs to the peptidase M24A family.,org.intermine.model.bio.Comment
+similarity,1028192,Belongs to the cullin family.,org.intermine.model.bio.Comment
+similarity,1028205,Belongs to the small GTPase superfamily. Rab family.,org.intermine.model.bio.Comment
+similarity,1028224,Belongs to the dynamin family.,org.intermine.model.bio.Comment
+similarity,1028225,Contains 1 GED domain.,org.intermine.model.bio.Comment
+similarity,1028276,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1028372,Belongs to the actin family.,org.intermine.model.bio.Comment
+similarity,1028533,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1028550,Contains 1 importin N-terminal domain.,org.intermine.model.bio.Comment
+similarity,1028580,Belongs to the ribosomal protein L11P family.,org.intermine.model.bio.Comment
+similarity,1028625,Contains 1 longin domain.,org.intermine.model.bio.Comment
+similarity,1028626,Contains 1 v-SNARE coiled-coil homology domain.,org.intermine.model.bio.Comment
+similarity,1028632,Contains 1 NAC-A/B (NAC-alpha/beta) domain.,org.intermine.model.bio.Comment
+similarity,1028633,Contains 1 UBA domain.,org.intermine.model.bio.Comment
+similarity,1028750,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1028765,Contains 1 SET domain.,org.intermine.model.bio.Comment
+similarity,1028774,Belongs to the SHMT family.,org.intermine.model.bio.Comment
+similarity,1028788,Belongs to the class-I aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1028930,Contains 1 LisH domain.,org.intermine.model.bio.Comment
+similarity,1028971,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+catalytic activity,1029003,2 reduced ferredoxin + NADP(+) + H(+) = 2 oxidized ferredoxin + NADPH.,org.intermine.model.bio.Comment
+similarity,1029004,Belongs to the ferredoxin--NADP reductase family.,org.intermine.model.bio.Comment
+catalytic activity,1029029,ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out).,org.intermine.model.bio.Comment
+similarity,1029030,Belongs to the ATPase alpha/beta chains family.,org.intermine.model.bio.Comment
+similarity,1029143,Contains 1 F5/8 type C domain.,org.intermine.model.bio.Comment
+similarity,1029187,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1029210,Belongs to the EIF-2B alpha/beta/delta subunits family.,org.intermine.model.bio.Comment
+similarity,1029332,Belongs to the histone H3 family.,org.intermine.model.bio.Comment
+catalytic activity,1029509,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1029510,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1029576,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+catalytic activity,1029592,Peptidylproline (omega=180) = peptidylproline (omega=0).,org.intermine.model.bio.Comment
+similarity,1029593,Contains 1 PPIase cyclophilin-type domain.,org.intermine.model.bio.Comment
+similarity,1029610,Belongs to the GTP-binding elongation factor family. EF-Tu/EF-1A subfamily.,org.intermine.model.bio.Comment
+similarity,1029624,Belongs to the NAD-dependent glycerol-3-phosphate dehydrogenase family.,org.intermine.model.bio.Comment
+catalytic activity,1029647,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1029648,Belongs to the peptidase T1B family.,org.intermine.model.bio.Comment
+similarity,1029699,Belongs to the cation transport ATPase (P-type) family.,org.intermine.model.bio.Comment
+similarity,1029803,Belongs to the LDH/MDH superfamily.,org.intermine.model.bio.Comment
+similarity,1029840,Belongs to the mitochondrial carrier family.,org.intermine.model.bio.Comment
+similarity,1029864,Belongs to the tubulin family.,org.intermine.model.bio.Comment
+similarity,1029870,Belongs to the OXA1/oxaA family.,org.intermine.model.bio.Comment
+similarity,1029966,Belongs to the class-II aminoacyl-tRNA synthetase family.,org.intermine.model.bio.Comment
+similarity,1030029,Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family.,org.intermine.model.bio.Comment
+similarity,1030105,Belongs to the prokaryotic type I/III topoisomerase family.,org.intermine.model.bio.Comment
+similarity,1030167,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+catalytic activity,1030187,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1030188,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+catalytic activity,1030193,Ubiquitin C-terminal thioester + H(2)O = ubiquitin + a thiol.,org.intermine.model.bio.Comment
+similarity,1030194,Belongs to the peptidase C19 family.,org.intermine.model.bio.Comment
+similarity,1030221,Belongs to the protein kinase superfamily.,org.intermine.model.bio.Comment
+similarity,1030403,Belongs to the actin family.,org.intermine.model.bio.Comment
+catalytic activity,1030439,Cleavage of peptide bonds with very broad specificity.,org.intermine.model.bio.Comment
+similarity,1030440,Belongs to the peptidase T1A family.,org.intermine.model.bio.Comment
+similarity,1030453,Belongs to the ribosomal protein S9P family.,org.intermine.model.bio.Comment
+catalytic activity,1030503,A phosphoprotein + H(2)O = a protein + phosphate.,org.intermine.model.bio.Comment
+similarity,1030504,Belongs to the PPP phosphatase family.,org.intermine.model.bio.Comment
+similarity,1030587,Contains 1 Rho-GAP domain.,org.intermine.model.bio.Comment
+similarity,1030725,Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family.,org.intermine.model.bio.Comment
+similarity,1030756,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.,org.intermine.model.bio.Comment
+similarity,1030777,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1030856,Belongs to the cytochrome b5 family.,org.intermine.model.bio.Comment
+similarity,1030857,Contains 1 cytochrome b5 heme-binding domain.,org.intermine.model.bio.Comment
+similarity,1030895,Belongs to the AAA ATPase family.,org.intermine.model.bio.Comment
+similarity,1030961,Belongs to the ribosomal protein S9P family.,org.intermine.model.bio.Comment
+similarity,1030981,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1031000,Contains 1 GOLD domain.,org.intermine.model.bio.Comment
+similarity,1031023,Belongs to the ribosomal protein L33P family.,org.intermine.model.bio.Comment
+similarity,1031135,Contains 1 SET domain.,org.intermine.model.bio.Comment
+similarity,1031140,Belongs to the 2-oxoacid dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1031145,Contains 1 PH domain.,org.intermine.model.bio.Comment
+catalytic activity,1031179,6-phospho-D-gluconate + NADP(+) = D-ribulose 5-phosphate + CO(2) + NADPH.,org.intermine.model.bio.Comment
+similarity,1031180,Belongs to the 6-phosphogluconate dehydrogenase family.,org.intermine.model.bio.Comment
+similarity,1031286,Belongs to the peptidase C1 family.,org.intermine.model.bio.Comment
+similarity,1031351,Belongs to the ribosomal protein L11P family.,org.intermine.model.bio.Comment
+similarity,1031366,Belongs to the cation transport ATPase (P-type) family.,org.intermine.model.bio.Comment
+similarity,1031394,Belongs to the peptidase M3 family.,org.intermine.model.bio.Comment
+similarity,1031399,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1031400,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1031484,Belongs to the peptidase S8 family.,org.intermine.model.bio.Comment
+similarity,1031495,Contains 1 helicase ATP-binding domain.,org.intermine.model.bio.Comment
+similarity,1031496,Contains 1 helicase C-terminal domain.,org.intermine.model.bio.Comment
+similarity,1031613,Contains 1 DHHC-type zinc finger.,org.intermine.model.bio.Comment
+similarity,1031792,Belongs to the MCM family.,org.intermine.model.bio.Comment
+similarity,1031793,Contains 1 MCM domain.,org.intermine.model.bio.Comment
+similarity,1031811,Belongs to the clpA/clpB family.,org.intermine.model.bio.Comment
+similarity,1031832,Contains 1 RING-type zinc finger.,org.intermine.model.bio.Comment
